@@ -1,7 +1,7 @@
 # default - History
 ## Tags
-* [LATEST - 1 Oct, 2014 (64786c77)](#LATEST)
-* [9a00806fcd9c273ff11cb64a080428ed2e0a8b3a - 1 Oct, 2014 (9a00806f)](#9a00806fcd9c273ff11cb64a080428ed2e0a8b3a)
+* [LATEST - 1 Oct, 2014 (7886e579)](#LATEST)
+* [beaker1.20.0 - 1 Oct, 2014 (64786c77)](#beaker1.20.0)
 * [beaker1.19.1 - 19 Sep, 2014 (3aafc71d)](#beaker1.19.1)
 * [beaker1.19.0 - 19 Sep, 2014 (6a56cc90)](#beaker1.19.0)
 * [beaker1.18.0 - 18 Sep, 2014 (b9171d9c)](#beaker1.18.0)
@@ -64,13 +64,13 @@
 * [pe1.2 - 6 Sep, 2011 (ba3dadd2)](#pe1.2)
 
 ## Details
-### <a name = "LATEST">LATEST - 1 Oct, 2014 (64786c77)
+### <a name = "LATEST">LATEST - 1 Oct, 2014 (7886e579)
 
-* (HISTORY) update beaker history for gem release 1.20.0 (64786c77)
+* (GEM) update beaker version to 1.21.0 (7886e579)
 
-* (GEM) update beaker version to 1.20.0 (343ef4e0)
+* (HISTORY) update beaker history for gem release 1.20.0 (4dae27b3)
 
-### <a name = "9a00806fcd9c273ff11cb64a080428ed2e0a8b3a">9a00806fcd9c273ff11cb64a080428ed2e0a8b3a - 1 Oct, 2014 (9a00806f)
+* (GEM) update beaker version to 1.20.0 (7aaee740)
 
 * Merge pull request #271 from hunner/add_fusion (9a00806f)
 
@@ -141,6 +141,14 @@ Merge pull request #422 from liamjbennett/vagrant_natdns
 
 Enable natresolver and natdnsproxy for vagrant.
 ```
+* Merge pull request #467 from anodelman/master (3aafc71d)
+
+
+```
+Merge pull request #467 from anodelman/master
+
+create beaker 1.19.1 gem
+```
 * (QENG-1261) remove solaris-10 specific ntpdate options.  -w causes an (a795d859)
 
 
@@ -200,6 +208,12 @@ Currently the vagrant hypervisor provider just does virtualbox. This
 allows the vagrant vmware_fusion and vmware_workstation plugins to be
 used instead.
 ```
+### <a name = "beaker1.20.0">beaker1.20.0 - 1 Oct, 2014 (64786c77)
+
+* (HISTORY) update beaker history for gem release 1.20.0 (64786c77)
+
+* (GEM) update beaker version to 1.20.0 (343ef4e0)
+
 ### <a name = "beaker1.19.1">beaker1.19.1 - 19 Sep, 2014 (3aafc71d)
 
 * Merge pull request #467 from anodelman/master (3aafc71d)

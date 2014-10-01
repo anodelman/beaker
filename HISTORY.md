@@ -1,6 +1,8 @@
-# beaker - History
+# default - History
 ## Tags
-* [LATEST - 19 Sep, 2014 (47f147e3)](#LATEST)
+* [LATEST - 1 Oct, 2014 (64786c77)](#LATEST)
+* [9a00806fcd9c273ff11cb64a080428ed2e0a8b3a - 1 Oct, 2014 (9a00806f)](#9a00806fcd9c273ff11cb64a080428ed2e0a8b3a)
+* [beaker1.19.1 - 19 Sep, 2014 (3aafc71d)](#beaker1.19.1)
 * [beaker1.19.0 - 19 Sep, 2014 (6a56cc90)](#beaker1.19.0)
 * [beaker1.18.0 - 18 Sep, 2014 (b9171d9c)](#beaker1.18.0)
 * [beaker1.17.7 - 2 Sep, 2014 (e47881f0)](#beaker1.17.7)
@@ -62,9 +64,153 @@
 * [pe1.2 - 6 Sep, 2011 (ba3dadd2)](#pe1.2)
 
 ## Details
-### <a name = "LATEST">LATEST - 19 Sep, 2014 (47f147e3)
+### <a name = "LATEST">LATEST - 1 Oct, 2014 (64786c77)
 
-* (HISTORY) history update for beaker 1.19.1 gem (47f147e3)
+* (HISTORY) update beaker history for gem release 1.20.0 (64786c77)
+
+* (GEM) update beaker version to 1.20.0 (343ef4e0)
+
+### <a name = "9a00806fcd9c273ff11cb64a080428ed2e0a8b3a">9a00806fcd9c273ff11cb64a080428ed2e0a8b3a - 1 Oct, 2014 (9a00806f)
+
+* Merge pull request #271 from hunner/add_fusion (9a00806f)
+
+
+```
+Merge pull request #271 from hunner/add_fusion
+
+(QENG-1146) Add vagrant_fusion, vagrant_workstation and vagrant_virtualbox providers
+```
+* Merge pull request #462 from er0ck/fix/master/QENG-1261-fix_ntpdate_on_solaris10 (6f5162e7)
+
+
+```
+Merge pull request #462 from er0ck/fix/master/QENG-1261-fix_ntpdate_on_solaris10
+
+(QENG-1261) remove solaris-10 specific ntpdate options
+```
+* Merge pull request #464 from anodelman/answers (e145c964)
+
+
+```
+Merge pull request #464 from anodelman/answers
+
+(QENG-1054) Add functionality to install_pe to modify answers...
+```
+* Merge pull request #476 from leoarnold/master (189eb410)
+
+
+```
+Merge pull request #476 from leoarnold/master
+
+Added link to installation instructions to README.md
+```
+* Merge pull request #479 from anodelman/epel (6ee6fe4c)
+
+
+```
+Merge pull request #479 from anodelman/epel
+
+(QENG-1206) Acceptance failing when trying to install epel-release...
+```
+* (QENG-1206) Acceptance failing when trying to install epel-release... (17bd48be)
+
+
+```
+(QENG-1206) Acceptance failing when trying to install epel-release...
+
+and EPEL packages from public mirrors
+- add ability to set epel_url, epel_arch and epel_package as global
+  options or on a per-host basis
+- added reasonable default values
+```
+* Added link to installation instructions to README.md (5b513899)
+
+* Merge pull request #418 from liamjbennett/vagrant_box_update (decdb05c)
+
+
+```
+Merge pull request #418 from liamjbennett/vagrant_box_update
+
+Adding support to vagrant for box_version and box_check_update.
+```
+* Merge pull request #422 from liamjbennett/vagrant_natdns (a64a3bac)
+
+
+```
+Merge pull request #422 from liamjbennett/vagrant_natdns
+
+Enable natresolver and natdnsproxy for vagrant.
+```
+* (QENG-1261) remove solaris-10 specific ntpdate options.  -w causes an (a795d859)
+
+
+```
+(QENG-1261) remove solaris-10 specific ntpdate options.  -w causes an
+error.
+remove related spec test.
+```
+* (gh-470) refactoring natdns to use the unless syntax (3d67a83a)
+
+* (QENG-1054) Add functionality to install_pe to modify answers... (6a35cda6)
+
+
+```
+(QENG-1054) Add functionality to install_pe to modify answers...
+
+...file before install
+
+- add ability to add custom_answers to individual hosts to be appended
+  to answer file
+- rework answer file code so that answers are an object that can be
+  queried for an answer string
+- instead of querying env for individual answers just pull in anything
+  that matches q_*
+- pull the default answer values into the presets so that it is more
+  easily tracked
+```
+* Enable natresolver and natdnsproxy for vagrant. (613ddba8)
+
+
+```
+Enable natresolver and natdnsproxy for vagrant.
+
+There are cases where tests run will fail when trying to download
+from the outside world due to dns issues. In order to resolve this
+I configured the natdnsproxy1 and natdnshostresolver1 vagrant settings
+```
+* (gh-471) Adding support to vagrant for box_version and box_check_update. (24bb0951)
+
+
+```
+(gh-471) Adding support to vagrant for box_version and box_check_update.
+
+If using versioned boxes from vagrant cloud and a new update is
+published, by default vagrant will attempt to update that box to
+the latest version. This may be undesired behaviour. Like any other
+versioned object you way wish to fix that initial download to a
+fixed version or a version range.
+```
+* (QENG-1146) Add vagrant_fusion, vmware_workstation, and vagrant_virtualbox providers (fdcbac3d)
+
+
+```
+(QENG-1146) Add vagrant_fusion, vmware_workstation, and vagrant_virtualbox providers
+
+Currently the vagrant hypervisor provider just does virtualbox. This
+allows the vagrant vmware_fusion and vmware_workstation plugins to be
+used instead.
+```
+### <a name = "beaker1.19.1">beaker1.19.1 - 19 Sep, 2014 (3aafc71d)
+
+* Merge pull request #467 from anodelman/master (3aafc71d)
+
+
+```
+Merge pull request #467 from anodelman/master
+
+create beaker 1.19.1 gem
+```
+* (HISTORY) history update for beaker 1.19.1 gem (d5bea586)
 
 * (GEM) version bump for 1.19.1 gem (7538dc00)
 

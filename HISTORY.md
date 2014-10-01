@@ -1,49 +1,6 @@
-# beaker - History
+# default - History
 ## Tags
-* [LATEST - 19 Sep, 2014 (47f147e3)](#LATEST)
-* [beaker1.19.0 - 19 Sep, 2014 (6a56cc90)](#beaker1.19.0)
-* [beaker1.18.0 - 18 Sep, 2014 (b9171d9c)](#beaker1.18.0)
-* [beaker1.17.7 - 2 Sep, 2014 (e47881f0)](#beaker1.17.7)
-* [beaker1.17.6 - 27 Aug, 2014 (bfb257bf)](#beaker1.17.6)
-* [beaker1.17.5 - 22 Aug, 2014 (7e553089)](#beaker1.17.5)
-* [beaker1.17.4 - 21 Aug, 2014 (8e6d070f)](#beaker1.17.4)
-* [beaker1.17.3 - 20 Aug, 2014 (f8a536c1)](#beaker1.17.3)
-* [beaker1.17.2 - 15 Aug, 2014 (c6f1f64a)](#beaker1.17.2)
-* [beaker1.17.1 - 12 Aug, 2014 (72e60299)](#beaker1.17.1)
-* [beaker1.17.0 - 12 Aug, 2014 (fb482b56)](#beaker1.17.0)
-* [beaker1.16.0 - 17 Jul, 2014 (c1267696)](#beaker1.16.0)
-* [beaker1.15.0 - 8 Jul, 2014 (82bb4ef9)](#beaker1.15.0)
-* [beaker1.14.1 - 3 Jul, 2014 (d2e750d5)](#beaker1.14.1)
-* [beaker1.14.0 - 3 Jul, 2014 (cf8ea838)](#beaker1.14.0)
-* [beaker1.13.1 - 23 Jun, 2014 (aa09552d)](#beaker1.13.1)
-* [beaker1.13.0 - 20 Jun, 2014 (5e80c638)](#beaker1.13.0)
-* [beaker1.12.2 - 12 Jun, 2014 (a31ba183)](#beaker1.12.2)
-* [beaker1.12.1 - 30 May, 2014 (36b14dc7)](#beaker1.12.1)
-* [beaker1.12.0 - 21 May, 2014 (591d3595)](#beaker1.12.0)
-* [beaker1.11.2 - 16 May, 2014 (f28c387b)](#beaker1.11.2)
-* [beaker1.11.1 - 15 May, 2014 (f684a724)](#beaker1.11.1)
-* [beaker1.11.0 - 8 May, 2014 (a389e3d1)](#beaker1.11.0)
-* [beaker1.10.0 - 22 Apr, 2014 (fbef5d2b)](#beaker1.10.0)
-* [beaker1.9.1 - 27 Mar, 2014 (747ee73e)](#beaker1.9.1)
-* [beaker1.9.0 - 26 Mar, 2014 (7feb8327)](#beaker1.9.0)
-* [beaker1.8.2 - 21 Mar, 2014 (0f848be8)](#beaker1.8.2)
-* [beaker1.8.1 - 19 Mar, 2014 (4de3450e)](#beaker1.8.1)
-* [beaker1.8.0 - 17 Mar, 2014 (0cea9162)](#beaker1.8.0)
-* [beaker1.7.0 - 19 Feb, 2014 (0ad045fe)](#beaker1.7.0)
-* [beaker1.6.2 - 31 Jan, 2014 (ed048e29)](#beaker1.6.2)
-* [beaker1.6.1 - 30 Jan, 2014 (468bbb6f)](#beaker1.6.1)
-* [beaker1.6.0 - 30 Jan, 2014 (3787bdb8)](#beaker1.6.0)
-* [beaker1.5.0 - 29 Jan, 2014 (78db5afb)](#beaker1.5.0)
-* [beaker1.4.1 - 27 Jan, 2014 (bc6a7d32)](#beaker1.4.1)
-* [beaker1.4.0 - 24 Jan, 2014 (c24f0194)](#beaker1.4.0)
-* [beaker1.3.2 - 23 Jan, 2014 (39bbbf0c)](#beaker1.3.2)
-* [beaker1.3.1 - 18 Dec, 2013 (08b59809)](#beaker1.3.1)
-* [beaker1.3.0 - 13 Dec, 2013 (5815f829)](#beaker1.3.0)
-* [beaker1.2.0 - 5 Dec, 2013 (59070752)](#beaker1.2.0)
-* [beaker1.0.1 - 25 Nov, 2013 (70f55b11)](#beaker1.0.1)
-* [beaker1.0.1pre - 20 Nov, 2013 (8cffaf28)](#beaker1.0.1pre)
-* [beaker1.0.0 - 8 Nov, 2013 (c85186b7)](#beaker1.0.0)
-* [beaker0.0.0 - 20 Aug, 2013 (c49dc525)](#beaker0.0.0)
+* [LATEST - 19 Sep, 2014 (d5bea586)](#LATEST)
 * [pe3.0 - 6 Jun, 2013 (0b52d9c5)](#pe3.0)
 * [pe2.8.1 - 15 Apr, 2013 (7f527ff2)](#pe2.8.1)
 * [pe2.8.0 - 26 Mar, 2013 (6b79859e)](#pe2.8.0)
@@ -62,9 +19,9 @@
 * [pe1.2 - 6 Sep, 2011 (ba3dadd2)](#pe1.2)
 
 ## Details
-### <a name = "LATEST">LATEST - 19 Sep, 2014 (47f147e3)
+### <a name = "LATEST">LATEST - 19 Sep, 2014 (d5bea586)
 
-* (HISTORY) history update for beaker 1.19.1 gem (47f147e3)
+* (HISTORY) history update for beaker 1.19.1 gem (d5bea586)
 
 * (GEM) version bump for 1.19.1 gem (7538dc00)
 
@@ -106,8 +63,6 @@ defaults without updating any global data.
 
 - paths with (, ), \s, or / are breaking links, this fixes that
 ```
-### <a name = "beaker1.19.0">beaker1.19.0 - 19 Sep, 2014 (6a56cc90)
-
 * Merge pull request #463 from anodelman/make-gem (6a56cc90)
 
 
@@ -128,19 +83,6 @@ Merge pull request #459 from justinstoller/bug/master/QENG-1212_better
 
 (QENG-1212) Improve module installation experience
 ```
-* (QENG-1212) Improve module installation experience (61f05e90)
-
-
-```
-(QENG-1212) Improve module installation experience
-
-Prior to this puppet module installation was carried out with either
-`puppet_module_install` or `copy_module_to`. This replaces them with a
-method `install_dev_puppet_module` that will install either via scp or
-pmt from a staging forge depending on arguements and environment
-```
-### <a name = "beaker1.18.0">beaker1.18.0 - 18 Sep, 2014 (b9171d9c)
-
 * Merge pull request #461 from anodelman/make-gem (b9171d9c)
 
 
@@ -168,6 +110,17 @@ Merge pull request #450 from anodelman/scp-repair
 Merge pull request #361 from anodelman/openstack
 
 (QENG-15) support openstack in beaker
+```
+* (QENG-1212) Improve module installation experience (61f05e90)
+
+
+```
+(QENG-1212) Improve module installation experience
+
+Prior to this puppet module installation was carried out with either
+`puppet_module_install` or `copy_module_to`. This replaces them with a
+method `install_dev_puppet_module` that will install either via scp or
+pmt from a staging forge depending on arguements and environment
 ```
 * Merge pull request #388 from ferventcoder/ticket/master/allow-git-depth (4d4120a3)
 
@@ -289,6 +242,16 @@ Merge pull request #436 from anodelman/win-fix
 
 * (QENG-1033) additional_pkgs should be a module level variable (6623ec0e)
 
+* Merge pull request #444 from branan/ship_1_17_7 (e47881f0)
+
+
+```
+Merge pull request #444 from branan/ship_1_17_7
+
+(maint) Bump version for 1.17.7 release
+```
+* (maint) Bump version for 1.17.7 release (0cb30f18)
+
 * (QENG-1186) Fix Beaker::DSL:Helpers.puppet_{user,group} (5bb6ee4e)
 
 
@@ -300,6 +263,37 @@ Luckily the puppet user is usually the same as the puppet group.
 
 Signed-off-by: Wayne <wayne@puppetlabs.com>
 ```
+* Merge pull request #443 from briancain/maint/master/add-node-to-classifier (701f81c2)
+
+
+```
+Merge pull request #443 from briancain/maint/master/add-node-to-classifier
+
+(QENG-1182) Add node to classifier prior to adding pe_repo class
+```
+* (QENG-1182) Add node to classifier prior to adding pe_repo class (00b2f458)
+
+
+```
+(QENG-1182) Add node to classifier prior to adding pe_repo class
+
+Prior to this commit, beaker would make the assumption that a node had
+already checked into the classifier. This commit changes that by
+ensuring that the node is in the classifier before giving it the pe_repo
+class.
+```
+* Merge pull request #441 from anodelman/make-gem (bfb257bf)
+
+
+```
+Merge pull request #441 from anodelman/make-gem
+
+create beaker 1.17.6 gem
+```
+* (HISTORY) update history for 1.17.6 gem (a7ee6c69)
+
+* (GEM) version bump for 1.17.6 gem (71be2050)
+
 * (QENG-1033) combine two conditionals into a single statement (e2e91ccc)
 
 * (QENG-989) install_puppet_from_gem fails on Solaris (45ac614e)
@@ -312,6 +306,25 @@ Trying to install puppet from gems would fail on both Solaris 10 and
 11. Solaris 10 now has pkgutil and gem symlinked (ln -s) to /usr/bin.
 Both Solaris versions have puppet-related gems symlinked to /usr/bin
 after installation. This is to avoid clobbering the PATH.
+```
+* Merge pull request #438 from waynr/fix/qeng-1134-remove-jvm-puppet-references (fe77e9b0)
+
+
+```
+Merge pull request #438 from waynr/fix/qeng-1134-remove-jvm-puppet-references
+
+(QENG-1134) Remove 'jvm-puppet' references left in Beaker.
+```
+* (QENG-1134) Remove 'jvm-puppet' references left in Beaker. (5da4eebc)
+
+
+```
+(QENG-1134) Remove 'jvm-puppet' references left in Beaker.
+
+Recently the `jvm-puppet` name was changed to `puppet-server`, this patch
+addresses that in both `lib/` and `spec/`
+
+Signed-off-by: Wayne <wayne@puppetlabs.com>
 ```
 * (QENG-1129) support win64 open source builds (47bf159f)
 
@@ -357,6 +370,14 @@ creating the Docker image. The `HostPrebuiltSteps` checks whether those
 are installed and does not do anything directly starting to execute the
 specs inside the image.
 ```
+* Merge pull request #417 from anodelman/make-gem (7e553089)
+
+
+```
+Merge pull request #417 from anodelman/make-gem
+
+create beaker 1.17.5 gem
+```
 * (GH-425) Sleep after killing processes (18699dc4)
 
 
@@ -366,131 +387,6 @@ specs inside the image.
 This avoids a race condition in which the killed processes haven't
 exited by the time we try and unmount the root fs and the call to
 container.delete errors.
-```
-* (MAINT) add ability to list all instances associated with an ec2 keyname (d5ad9e35)
-
-
-```
-(MAINT) add ability to list all instances associated with an ec2 keyname
-
-- convenience function for listing all instances associated with a
-  provided keyname, useful for tracking what's happening in ec2
-```
-* (QENG-1018) default dev_builds_url in Beaker needs to be updated (1b2a935f)
-
-
-```
-(QENG-1018) default dev_builds_url in Beaker needs to be updated
-
-- update to builds.delivery.puppetlabs.net
-```
-* (QENG-1037) Install from git should accept depth (ffcddcc0)
-
-
-```
-(QENG-1037) Install from git should accept depth
-
-When installing from larger repositories, being able to specify depth can cut
-the time of git checkout in half. This becomes especially helpful when you are
-checking out multiple repositories.
-Due to the older git on some of the templates, this provides the older
---branch name --depth 1 commands, which means when using depth, one should
-ensure the rev passed is a branch and not a single commit. Alternatively one
-can add depth_branch => 'name' to repository and have that used instead of rev.
-```
-* (maint) formatting (239d8054)
-
-
-```
-(maint) formatting
-
-This removes trailing whitespaces in install_utils.rb
-```
-* Add Enterprise Linux (el) (3f2bb69b)
-
-* (QENG-15) beaker openstack support (EXPERIMENTAL) (745f1a4a)
-
-
-```
-(QENG-15) beaker openstack support (EXPERIMENTAL)
-
-- experimental code to support openstack, may be missing configuration
-  steps or otherwise be incomplete
-- should be used as a basis for further beaker openstack infrastructure
-```
-### <a name = "beaker1.17.7">beaker1.17.7 - 2 Sep, 2014 (e47881f0)
-
-* Merge pull request #444 from branan/ship_1_17_7 (e47881f0)
-
-
-```
-Merge pull request #444 from branan/ship_1_17_7
-
-(maint) Bump version for 1.17.7 release
-```
-* (maint) Bump version for 1.17.7 release (0cb30f18)
-
-* Merge pull request #443 from briancain/maint/master/add-node-to-classifier (701f81c2)
-
-
-```
-Merge pull request #443 from briancain/maint/master/add-node-to-classifier
-
-(QENG-1182) Add node to classifier prior to adding pe_repo class
-```
-* (QENG-1182) Add node to classifier prior to adding pe_repo class (00b2f458)
-
-
-```
-(QENG-1182) Add node to classifier prior to adding pe_repo class
-
-Prior to this commit, beaker would make the assumption that a node had
-already checked into the classifier. This commit changes that by
-ensuring that the node is in the classifier before giving it the pe_repo
-class.
-```
-### <a name = "beaker1.17.6">beaker1.17.6 - 27 Aug, 2014 (bfb257bf)
-
-* Merge pull request #441 from anodelman/make-gem (bfb257bf)
-
-
-```
-Merge pull request #441 from anodelman/make-gem
-
-create beaker 1.17.6 gem
-```
-* (HISTORY) update history for 1.17.6 gem (a7ee6c69)
-
-* (GEM) version bump for 1.17.6 gem (71be2050)
-
-* Merge pull request #438 from waynr/fix/qeng-1134-remove-jvm-puppet-references (fe77e9b0)
-
-
-```
-Merge pull request #438 from waynr/fix/qeng-1134-remove-jvm-puppet-references
-
-(QENG-1134) Remove 'jvm-puppet' references left in Beaker.
-```
-* (QENG-1134) Remove 'jvm-puppet' references left in Beaker. (5da4eebc)
-
-
-```
-(QENG-1134) Remove 'jvm-puppet' references left in Beaker.
-
-Recently the `jvm-puppet` name was changed to `puppet-server`, this patch
-addresses that in both `lib/` and `spec/`
-
-Signed-off-by: Wayne <wayne@puppetlabs.com>
-```
-### <a name = "beaker1.17.5">beaker1.17.5 - 22 Aug, 2014 (7e553089)
-
-* Merge pull request #417 from anodelman/make-gem (7e553089)
-
-
-```
-Merge pull request #417 from anodelman/make-gem
-
-create beaker 1.17.5 gem
 ```
 * (HISTORY) update history for beaker 1.17.5 gem (ebefea72)
 
@@ -503,6 +399,15 @@ create beaker 1.17.5 gem
 Merge pull request #415 from waynr/feature/qeng-1110-install-from-ezbake-bugfix
 
 (QENG-1110) Beaker::DSL::EZBakeUtils bugfix
+```
+* (MAINT) add ability to list all instances associated with an ec2 keyname (d5ad9e35)
+
+
+```
+(MAINT) add ability to list all instances associated with an ec2 keyname
+
+- convenience function for listing all instances associated with a
+  provided keyname, useful for tracking what's happening in ec2
 ```
 * (QENG-1110) Beaker::DSL::EZBakeUtils bugfix (bd1d91f2)
 
@@ -530,8 +435,6 @@ Merge pull request #414 from waynr/feature/qeng-1108-create-tmpdir-for-user-fail
 
 Signed-off-by: Wayne <wayne@puppetlabs.com>
 ```
-### <a name = "beaker1.17.4">beaker1.17.4 - 21 Aug, 2014 (8e6d070f)
-
 * Merge pull request #413 from anodelman/make-gem (8e6d070f)
 
 
@@ -552,6 +455,14 @@ Merge pull request #411 from anodelman/ec2
 
 (MAINT) kill zombies after provided number of hours
 ```
+* (QENG-1018) default dev_builds_url in Beaker needs to be updated (1b2a935f)
+
+
+```
+(QENG-1018) default dev_builds_url in Beaker needs to be updated
+
+- update to builds.delivery.puppetlabs.net
+```
 * Merge pull request #409 from cyberious/ScpCopyIgnoreFix (e59632eb)
 
 
@@ -568,10 +479,6 @@ QENG-1080 do_scp_to now checks for source path of absolute and prunes accordingl
 
 - was always using the default 3 hours
 ```
-* QENG-1080 Fixed issue where we appended the source path to the target path, we now check for absolute path prior (cdd9c7b8)
-
-### <a name = "beaker1.17.3">beaker1.17.3 - 20 Aug, 2014 (f8a536c1)
-
 * Merge pull request #410 from anodelman/make-gem (f8a536c1)
 
 
@@ -592,6 +499,8 @@ Merge pull request #408 from anodelman/ec2
 
 (MAINT) nits in beaker ec2 support
 ```
+* QENG-1080 Fixed issue where we appended the source path to the target path, we now check for absolute path prior (cdd9c7b8)
+
 * (MAINT) nits in beaker ec2 support (3d823291)
 
 
@@ -604,8 +513,6 @@ Merge pull request #408 from anodelman/ec2
 - properly notify user of missing aws_access_key_id and
   aws_secret_access_key during initialization
 ```
-### <a name = "beaker1.17.2">beaker1.17.2 - 15 Aug, 2014 (c6f1f64a)
-
 * Merge pull request #407 from anodelman/make-gem (c6f1f64a)
 
 
@@ -694,8 +601,6 @@ Merge pull request #404 from anodelman/fix-default
 - when using an array of hosts the command object was overwritten and
   thus the platform specific information was lost
 ```
-### <a name = "beaker1.17.1">beaker1.17.1 - 12 Aug, 2014 (72e60299)
-
 * Merge pull request #399 from anodelman/make-gem (72e60299)
 
 
@@ -735,6 +640,14 @@ This reverts commit b06b6313de24da82a031b6b04dc95042812b4445.
 The installer doesn't actually function with this answer set, so we
 certainly shouldn't be making it the default.
 ```
+* Merge pull request #396 from anodelman/make-gem (fb482b56)
+
+
+```
+Merge pull request #396 from anodelman/make-gem
+
+(GEM) create beaker 1.17.0 gem
+```
 * (MAINT) add ability to generate history for branch other than 'master' (76ad94d5)
 
 
@@ -743,16 +656,6 @@ certainly shouldn't be making it the default.
 
 - want to be able to generate a new HISTORY.md file based upon a
   provided branch name
-```
-### <a name = "beaker1.17.0">beaker1.17.0 - 12 Aug, 2014 (fb482b56)
-
-* Merge pull request #396 from anodelman/make-gem (fb482b56)
-
-
-```
-Merge pull request #396 from anodelman/make-gem
-
-(GEM) create beaker 1.17.0 gem
 ```
 * (HISTORY) add history for 1.17.0 gem (c04acf4d)
 
@@ -847,6 +750,28 @@ Merge pull request #384 from jpartlow/issue/master/qeng-188-better-foss-service-
 
 (QENG-188) Allow foss runs to use service scripts, take 2
 ```
+* (QENG-1037) Install from git should accept depth (ffcddcc0)
+
+
+```
+(QENG-1037) Install from git should accept depth
+
+When installing from larger repositories, being able to specify depth can cut
+the time of git checkout in half. This becomes especially helpful when you are
+checking out multiple repositories.
+Due to the older git on some of the templates, this provides the older
+--branch name --depth 1 commands, which means when using depth, one should
+ensure the rev passed is a branch and not a single commit. Alternatively one
+can add depth_branch => 'name' to repository and have that used instead of rev.
+```
+* (maint) formatting (239d8054)
+
+
+```
+(maint) formatting
+
+This removes trailing whitespaces in install_utils.rb
+```
 * (QENG-1032) Fix for tests without a master host (76329613)
 
 
@@ -869,6 +794,8 @@ A couple simple fixes for previously unvisited code paths.
 
 Signed-off-by: Wayne <wayne@puppetlabs.com>
 ```
+* Add Enterprise Linux (el) (3f2bb69b)
+
 * Merge pull request #330 from anodelman/scp-ignore (5144958f)
 
 
@@ -1166,237 +1093,6 @@ Without the default it was possible to end up with a comparison against
 null when retrying a check with curl (for checking that services are
 running). This adds a default of 0 (no retries) to the presets.
 ```
-* (QENG-941) create contributor documentation for beaker (5b1fc8a9)
-
-
-```
-(QENG-941) create contributor documentation for beaker
-
-- create CONTRIBUTING.md
-- covers steps necessary before PRs will be merged into Beaker
-```
-* (QENG-431) (cleanup + split out filtering) expanded and improved role support in beaker (83f8aed1)
-
-
-```
-(QENG-431) (cleanup + split out filtering) expanded and improved role support in beaker
-
-- split out filtering from applying the block to hosts
-- block_on now determines if we have a filter or not
-- run_block_on accepts both a set of hosts and an optional filter
-```
-* (QENG-431) (cleanup) expanded and improved role support in beaker (24ba4467)
-
-
-```
-(QENG-431) (cleanup) expanded and improved role support in beaker
-
-- cleanup in response to review comments
-```
-* Revert "Revert "(QENG-431) expanded and improved role support in beaker"" (2e0b33b8)
-
-* Clean up and document reproduction info methods in Beaker::CLI (fbb11f82)
-
-* (maint) Remove unneeded modifications to File (975ff81a)
-
-
-```
-(maint) Remove unneeded modifications to File
-
-These modifications to the FakeFS::File class do not appear to be
-needed. When they are removed all of the tests continue to work as
-before.
-```
-* (QENG-751) Request for Higgs support in installing beaker (ced78c55)
-
-
-```
-(QENG-751) Request for Higgs support in installing beaker
-
-- adds install_higgs command
-- executes against master node
-- downloads pe packages based upon pe_ver/pe_dir
-- goes up to the point in the install where human interaction is
-  required (notices indication in install log that a link has been
-  provided to a web server)
-```
-* (QENG-840) Replace puppet.conf after stopping master (ae264bed)
-
-
-```
-(QENG-840) Replace puppet.conf after stopping master
-
-A webrick master watches the puppet.conf file and will try to reload and
-reapply the settings catalog when it changes. The with_puppet_running_on
-method gets into a race with this behavior, plus bug PUP-2834, because
-it puts the backed up puppet.conf back into place *before* trying to
-shut down the master process. This caused the master to periodically
-read the new configuration, fail in applying it, crash, and then beaker
-would try to kill the process. The process was already dead and the kill
-command ends up failing. This then causes the test to fail.
-
-This changes it so that for webrick masters, the backed up file isn't
-moved back into place until *after* the master has been shut down. Since
-rack masters don't ever try to reread the config file, this doesn't
-affect them. Also, in the rack case, the file needs to be moved into
-place *before* the master is stopped since it is actually fully
-restarted.
-```
-* (QENG-762) add support to beaker scp_to/scp_from to ignore files of ... (53fce7cd)
-
-
-```
-(QENG-762) add support to beaker scp_to/scp_from to ignore files of ...
-
-... certain name/type
-
-- added support to scp_to for an ignore list of files/dirs.  Does not
-  support globbing.
-```
-* (QENG-807) add --collect-perf-data option, rspec tests, and yard docs (8d1a891d)
-
-* (QENG-188) Allow foss runs to use service scripts, take 2 (577fce4d)
-
-
-```
-(QENG-188) Allow foss runs to use service scripts, take 2
-
-Prior to this commit, any run of beaker with a non-pe master that
-attempted to stand up a master with a particular configuration in order
-to test against it using the with_puppet_running_on() helper would
-always stand up a webrick master by executing `puppet master <args>` and
-then later stop it with `kill`.
-
-The platform team needs to be able to run acceptance suites in which the
-puppetmaster is started/stopped using package provided init scripts, or
-by restarting apache if a passenger puppetmaster package is installed.
-
-This PR takes the approach of enhancing Beaker::Host with a few query
-methods controlled by host properties, either set in the hosts.cfg, or
-directly on a master Beaker::Host instance during the execution of a
-setup step.  The added properties are:
-
- * 'use-service' : if true, service scripts will be used instead of
-manually starting a webrick master
- * 'passenger'   : if true, indicates a passenger package has been
-installed, and by default graceful service restarts will be used
- * 'puppetservice' : the 'puppetservice' property has been added to the
-Beaker::Host::Unix.foss_defaults with the value of 'puppetmaster'.  It
-should be set to the appropriate service script name for passenger if a
-passenger package has been installed.
- * 'graceful-restarts' : can be set false if you want to stop/start with
-service scripts rather than use graceful restarts when running with
-passenger
-
-The Beaker::Host#uses_passenger! call may be used to set a host
-appropriately for passenger.
-
-The graceful restarts facility of the dsl helper's bounce method assumes
-apache2 was used for passenger and that apach2ctl is available.
-
-Any existing test suite which does not 'opt-in' to any of these service
-host changes by specifying any of the above properties should not be
-effected by this commit.  The exception to this is that PE runs will use
-graceful restarts automatically with this commit.
-
-There is also a spec related change to the FakeHost helper, which
-previously was a stub pretending to provide Beaker::Host like facilities
-and recording commands for review.  This became unwieldy when the
-various query methods for use_service_scripts? is_using_passenger? and
-so forth were added, and the FakeHost has been updated to instead use
-Beaker::Host.create to provide a host instance that is then extended
-with the MockedExec module stubbing the exec facilities for testing.
-```
-* (QENG-188) Allow foss runs to use service scripts (44d18d5f)
-
-
-```
-(QENG-188) Allow foss runs to use service scripts
-
-Prior to this commit, any run of beaker with a non-pe master that
-attempted to stand up a master with a particular configuration in order
-to test against it using the with_puppet_running_on() helper would
-always stand up a webrick master by executing `puppet master <args>` and
-then later stop it with `kill`.
-
-The platform team needs to be able to run acceptance suites in which the
-puppetmaster is started/stopped using package provided init scripts, or
-by restarting apache if a passenger puppetmaster package is installed.
-
-This PR takes the approach of enhancing Beaker::Host with a few query
-methods controlled by host properties, either set in the hosts.cfg, or
-directly on a master Beaker::Host instance during the execution of a
-setup step.  The added properties are:
-
- * 'use-service' : if true, service scripts will be used instead of
-manually starting a webrick master
- * 'passenger'   : if true, indicates a passenger package has been
-installed, and by default graceful service restarts will be used
- * 'puppetservice' : the 'puppetservice' property has been added to the
-Beaker::Host::Unix.foss_defaults with the value of 'puppetmaster'.  It
-should be set to the appropriate service script name for passenger if a
-passenger package has been installed.
- * 'graceful-restarts' : can be set false if you want to stop/start with
-service scripts rather than use graceful restarts when running with
-passenger
-
-The Beaker::Host#uses_passenger! call may be used to set a host
-appropriately for passenger.
-
-The graceful restarts facility of the dsl helper's bounce method assumes
-apache2 was used for passenger and that apach2ctl is available.
-
-Any existing test suite which does not 'opt-in' to any of these service
-host changes by specifying any of the above properties should not be
-effected by this commit.
-
-There is also a spec related change to the FakeHost helper, which
-previously was a stub pretending to provide Beaker::Host like facilities
-and recording commands for review.  This became unwieldy when the
-various query methods for use_service_scripts? is_using_passenger? and
-so forth were added, and the FakeHost has been updated to instead use
-Beaker::Host.create to provide a host instance that is then extended
-with the MockedExec module stubbing the exec facilities for testing.
-```
-* Ensure IS_PE only respects different values (36abc3d8)
-
-
-```
-Ensure IS_PE only respects different values
-
-Previously if we set the IS_PE or BEAKER_IS_PE environment variable at
-all we would automatically make the run a PE run. This caused
-non-obvious behavior for users that set IS_PE=false.
-
-This changes the searching of the environment to only set the :type
-option if [BEAKER_]IS_PE=yes|true.
-
-Signed-off-by: Justin Stoller <justin@puppetlabs.com>
-```
-* Improve documentation and readability of environment parsing improvements (b27ac271)
-
-* (QENG-758) add ability to select a group a beaker hosts based upon... (6acb6147)
-
-
-```
-(QENG-758) add ability to select a group a beaker hosts based upon...
-
-...a set of properties
-
-- a shortcut means of selecting a sub group of hosts to run commands on
-```
-* (QENG-5156) Provide Important Env Vars Set in Debug Output (88c18537)
-
-
-```
-(QENG-5156) Provide Important Env Vars Set in Debug Output
-
-This provides the Environment Variables that are pertinent to running
-Beaker as an error message after a failed run or as a debug message
-on a successful run in the debug log level.
-```
-### <a name = "beaker1.16.0">beaker1.16.0 - 17 Jul, 2014 (c1267696)
-
 * Merge pull request #366 from anodelman/make-gem (c1267696)
 
 
@@ -1415,6 +1111,15 @@ Merge pull request #364 from anodelman/make-gem
 
 (GEM) version bump for beaker 1.16.0
 ```
+* (QENG-941) create contributor documentation for beaker (5b1fc8a9)
+
+
+```
+(QENG-941) create contributor documentation for beaker
+
+- create CONTRIBUTING.md
+- covers steps necessary before PRs will be merged into Beaker
+```
 * (GEM) version bump for beaker 1.16.0 (6664c6ab)
 
 * Merge pull request #363 from puppetlabs/revert-359-issue/master/qeng-188-foss-service-restarts (56cfac77)
@@ -1427,6 +1132,16 @@ Revert "(QENG-188) Allow foss runs to use service scripts"
 ```
 * Revert "(QENG-188) Allow foss runs to use service scripts" (dbfa7b23)
 
+* (QENG-431) (cleanup + split out filtering) expanded and improved role support in beaker (83f8aed1)
+
+
+```
+(QENG-431) (cleanup + split out filtering) expanded and improved role support in beaker
+
+- split out filtering from applying the block to hosts
+- block_on now determines if we have a filter or not
+- run_block_on accepts both a set of hosts and an optional filter
+```
 * Merge pull request #359 from jpartlow/issue/master/qeng-188-foss-service-restarts (d2464451)
 
 
@@ -1530,6 +1245,16 @@ Merge pull request #354 from anodelman/scp-repair
 - correctly removed actual undef/invalid characters so that string
   methods can be run (ie, split, gsub)
 ```
+* (QENG-15) beaker openstack support (EXPERIMENTAL) (745f1a4a)
+
+
+```
+(QENG-15) beaker openstack support (EXPERIMENTAL)
+
+- experimental code to support openstack, may be missing configuration
+  steps or otherwise be incomplete
+- should be used as a basis for further beaker openstack infrastructure
+```
 * Merge pull request #338 from anodelman/add-history (9e6acd2e)
 
 
@@ -1548,40 +1273,6 @@ Merge pull request #338 from anodelman/add-history
 - simply remove the option hash from the debug line, it isn't
   appropriate there.
 ```
-* (QENG-849) beaker should maintain a history file that provides... (04bf6d4f)
-
-
-```
-(QENG-849) beaker should maintain a history file that provides...
-
-...information per gem release
-
-- generate a markdown history file from beaker git log
-```
-* (QENG-188) Allow foss runs to use service scripts (881311ab)
-
-
-```
-(QENG-188) Allow foss runs to use service scripts
-
-Prior to this commit, any run of beaker with a non-pe master that
-attempted to stand up a master with a particular configuration in order
-to test against it using the with_puppet_running_on() helper would
-always stand up a webrick master by executing `puppet master <args>` and
-then later stop it with `kill`.
-
-The platform team needs to be able to run acceptance suites in which the
-puppetmaster is started/stopped using package provided init scripts, or
-by restarting apache if a passenger puppetmaster package is installed.
-
-This PR makes a few additions to OptionsHash, Host and the DSL::Helpers
-to allow us to distinguish foss hosts which were spun up from source
-from those which were installed from packages.  And if we are working
-with packages, whether we will be attempting to restart a running
-service or stop/start using service scripts.
-```
-### <a name = "beaker1.15.0">beaker1.15.0 - 8 Jul, 2014 (82bb4ef9)
-
 * Merge pull request #353 from anodelman/make-gem (82bb4ef9)
 
 
@@ -1599,6 +1290,14 @@ Merge pull request #353 from anodelman/make-gem
 Merge pull request #351 from anodelman/make-gem
 
 (GEM) create beaker 1.15.0 gem
+```
+* (QENG-431) (cleanup) expanded and improved role support in beaker (24ba4467)
+
+
+```
+(QENG-431) (cleanup) expanded and improved role support in beaker
+
+- cleanup in response to review comments
 ```
 * Merge pull request #349 from justinstoller/maint/master/do-the-right-thing (e2c1be08)
 
@@ -1672,9 +1371,7 @@ available.
 ```
 * (MAINT) Whitespace for readability (4ee2980c)
 
-* (MAINT) Add lucid support to platform version codes (387e00fd)
-
-### <a name = "beaker1.14.1">beaker1.14.1 - 3 Jul, 2014 (d2e750d5)
+* Revert "Revert "(QENG-431) expanded and improved role support in beaker"" (2e0b33b8)
 
 * Merge pull request #342 from anodelman/make-gem (d2e750d5)
 
@@ -1736,27 +1433,6 @@ Signed-off-by: Wayne <wayne@puppetlabs.com>
 ```
 * (GEM) create beaker 1.14.1 gem (180e712d)
 
-* (QENG-431) expanded and improved role support in beaker (part 2) (ea90a311)
-
-
-```
-(QENG-431) expanded and improved role support in beaker (part 2)
-
-- add support for running commands against hosts by name
-- add support for arbitrary role methods, like those for built in roles
-    eg, on master, "echo hello"
-        on myrole, "echo hello"
-```
-* (QENG-431) expanded and improved role support in beaker (4797313e)
-
-
-```
-(QENG-431) expanded and improved role support in beaker
-
-- make is possible to use arbitrary role names for most beaker DSL APIs
-```
-### <a name = "beaker1.14.0">beaker1.14.0 - 3 Jul, 2014 (cf8ea838)
-
 * Merge pull request #340 from anodelman/make-gem (cf8ea838)
 
 
@@ -1775,6 +1451,20 @@ Merge pull request #322 from waynr/feature/install-dev-release-repos
 
 (QENG-715) Add `install_dev_repo` to Beaker DSL
 ```
+* Clean up and document reproduction info methods in Beaker::CLI (fbb11f82)
+
+* (maint) Remove unneeded modifications to File (975ff81a)
+
+
+```
+(maint) Remove unneeded modifications to File
+
+These modifications to the FakeFS::File class do not appear to be
+needed. When they are removed all of the tests continue to work as
+before.
+```
+* (MAINT) Add lucid support to platform version codes (387e00fd)
+
 * (QENG-715) Remove old `install_dev_repo` (448bcfb6)
 
 
@@ -1841,6 +1531,16 @@ refactor copy_root_module_to to copy_module_to and add support for ignore
 Merge pull request #327 from cyberious/master
 
 Fix issue with run_task and invalid or undefined methods
+```
+* (QENG-849) beaker should maintain a history file that provides... (04bf6d4f)
+
+
+```
+(QENG-849) beaker should maintain a history file that provides...
+
+...information per gem release
+
+- generate a markdown history file from beaker git log
 ```
 * (QENG-715) Copy methods over from puppet acceptance lib. (49b70484)
 
@@ -1967,6 +1667,19 @@ Merge pull request #329 from waynr/feature/curl-retries
 
 (MAINT) Feature/curl retries
 ```
+* (QENG-751) Request for Higgs support in installing beaker (ced78c55)
+
+
+```
+(QENG-751) Request for Higgs support in installing beaker
+
+- adds install_higgs command
+- executes against master node
+- downloads pe packages based upon pe_ver/pe_dir
+- goes up to the point in the install where human interaction is
+  required (notices indication in install log that a link has been
+  provided to a web server)
+```
 * Merge pull request #324 from anodelman/pe-in-debug (75acc306)
 
 
@@ -2068,6 +1781,39 @@ then pushing to the appropriate configuration directory on the remote machine.
 
 Signed-off-by: Wayne <wayne@puppetlabs.com>
 ```
+* (QENG-840) Replace puppet.conf after stopping master (ae264bed)
+
+
+```
+(QENG-840) Replace puppet.conf after stopping master
+
+A webrick master watches the puppet.conf file and will try to reload and
+reapply the settings catalog when it changes. The with_puppet_running_on
+method gets into a race with this behavior, plus bug PUP-2834, because
+it puts the backed up puppet.conf back into place *before* trying to
+shut down the master process. This caused the master to periodically
+read the new configuration, fail in applying it, crash, and then beaker
+would try to kill the process. The process was already dead and the kill
+command ends up failing. This then causes the test to fail.
+
+This changes it so that for webrick masters, the backed up file isn't
+moved back into place until *after* the master has been shut down. Since
+rack masters don't ever try to reread the config file, this doesn't
+affect them. Also, in the rack case, the file needs to be moved into
+place *before* the master is stopped since it is actually fully
+restarted.
+```
+* (QENG-762) add support to beaker scp_to/scp_from to ignore files of ... (53fce7cd)
+
+
+```
+(QENG-762) add support to beaker scp_to/scp_from to ignore files of ...
+
+... certain name/type
+
+- added support to scp_to for an ignore list of files/dirs.  Does not
+  support globbing.
+```
 * Merge pull request #314 from anodelman/maint (ee2ad375)
 
 
@@ -2098,119 +1844,6 @@ empty, then don't prepend the `env` call to make.
 
 Signed-off-by: Wayne <wayne@puppetlabs.com>
 ```
-* Use the DOCKER_HOST environment when present for ssh to docker server (4793e5b7)
-
-
-```
-Use the DOCKER_HOST environment when present for ssh to docker server
-
-Honor DOCKER_HOST envvar, used with boot2docker
-```
-* (QENG-124) get rid of add_master_entry (eb3be3e9)
-
-
-```
-(QENG-124) get rid of add_master_entry
-
-- execution of add_master_entry has been off by default for a while, so
-  we know that this code is no longer necessary, this is just clean up
-```
-* add alias to keep current functionality (f18c71da)
-
-* Fixed test cases and bug with copy_module_to (3ec6077a)
-
-* (QENG-725) Minor code cleanup and EZBakeUtils fix. (2f9ee267)
-
-
-```
-(QENG-725) Minor code cleanup and EZBakeUtils fix.
-
-* Fixes defaultsdir argument passed to make in `install_from_ezbake` for debian
-  systems.
-* Adds `--force-yes` to apt-get calls when installing packages on debian.
-* Minor code cleanup when interpreting package and version information from
-  `ezbake_config`
-
-Signed-off-by: Wayne <wayne@puppetlabs.com>
-```
-* (QENG-716) Add package_version option to install_package. (9acb4f20)
-
-
-```
-(QENG-716) Add package_version option to install_package.
-
-Makes more sense to make this optional behavior in `install_package` than to
-implement new method.
-
-Signed-off-by: Wayne <wayne@puppetlabs.com>
-```
-* refactor copy_root_module_to copy_module_to, also changed the behavior of puppet_module_install_on to use the PMT tool instead of copying the whole file to it (1718342c)
-
-* (QENG-725) Minor bugfix and documentation addition. (26d518d1)
-
-
-```
-(QENG-725) Minor bugfix and documentation addition.
-
-* Document `ezbake_stage` method.
-* Fix directory creation bug in `conditionally_clone` method.
-
-Signed-off-by: Wayne <wayne@puppetlabs.com>
-```
-* (QENG-725) Adds spec tests for EZBakeUtils. (d5665ffb)
-
-
-```
-(QENG-725) Adds spec tests for EZBakeUtils.
-
-Signed-off-by: Wayne <wayne@puppetlabs.com>
-```
-* (QENG-725) Implements install_from_ezbake. (b764cf51)
-
-
-```
-(QENG-725) Implements install_from_ezbake.
-
-Adds a new module, Beaker::DSL::EZbake to extend the Beaker DSL with
-functionality that should be useful across multiple JVM based projects,
-particularly those that use TrapperKeeper and are packaged using ezbake.
-
-Don't want to add user to system from install_from_ezbake, that should be done
-at a higher level or from within a preinst step if absolutely necessary. Also
-shouldn't be making any puppet calls using Beaker before the Puppet master is
-run for the first time using init scripts since this will lead to
-/var/lib/puppet directories being owned by root. Bad.
-
-Signed-off-by: Wayne <wayne@puppetlabs.com>
-```
-* (QENG-716) install_package_version (720854c2)
-
-
-```
-(QENG-716) install_package_version
-
-This commit adds 'install_package_version' method to the DSL helper utils and an
-associated method that given package name as well as optional version string
-that will be used to construct a package name that includes a specific version
-string for installation on the SUT.
-
-This currently only supports apt and yum based package managers, as I am no
-familiar enough with other platforms. For non apt or yum based platforms, an
-exception will be raised.
-
-Signed-off-by: Wayne <wayne@puppetlabs.com>
-```
-* (QENG-645) Add `master-start-curl-retries` to host options. (2d499afe)
-
-
-```
-(QENG-645) Add `master-start-curl-retries` to host options.
-
-Allows per-host modification of the number of curl retries to perform when
-restarting puppet master.
-```
-### <a name = "beaker1.13.1">beaker1.13.1 - 23 Jun, 2014 (aa09552d)
-
 * Merge pull request #318 from anodelman/make-gem (aa09552d)
 
 
@@ -2241,8 +1874,14 @@ object available as `@logger` breaks beaker-rspec.
 
 Signed-off-by: Wayne <wayne@puppetlabs.com>
 ```
-### <a name = "beaker1.13.0">beaker1.13.0 - 20 Jun, 2014 (5e80c638)
+* Use the DOCKER_HOST environment when present for ssh to docker server (4793e5b7)
 
+
+```
+Use the DOCKER_HOST environment when present for ssh to docker server
+
+Honor DOCKER_HOST envvar, used with boot2docker
+```
 * Merge pull request #315 from anodelman/make-gem (5e80c638)
 
 
@@ -2269,6 +1908,142 @@ Merge pull request #313 from petems/fix_noop_to_nil
 
 Fix noop to nil
 ```
+* (QENG-807) add --collect-perf-data option, rspec tests, and yard docs (8d1a891d)
+
+* (QENG-188) Allow foss runs to use service scripts (881311ab)
+
+
+```
+(QENG-188) Allow foss runs to use service scripts
+
+Prior to this commit, any run of beaker with a non-pe master that
+attempted to stand up a master with a particular configuration in order
+to test against it using the with_puppet_running_on() helper would
+always stand up a webrick master by executing `puppet master <args>` and
+then later stop it with `kill`.
+
+The platform team needs to be able to run acceptance suites in which the
+puppetmaster is started/stopped using package provided init scripts, or
+by restarting apache if a passenger puppetmaster package is installed.
+
+This PR makes a few additions to OptionsHash, Host and the DSL::Helpers
+to allow us to distinguish foss hosts which were spun up from source
+from those which were installed from packages.  And if we are working
+with packages, whether we will be attempting to restart a running
+service or stop/start using service scripts.
+```
+* (QENG-188) Allow foss runs to use service scripts (44d18d5f)
+
+
+```
+(QENG-188) Allow foss runs to use service scripts
+
+Prior to this commit, any run of beaker with a non-pe master that
+attempted to stand up a master with a particular configuration in order
+to test against it using the with_puppet_running_on() helper would
+always stand up a webrick master by executing `puppet master <args>` and
+then later stop it with `kill`.
+
+The platform team needs to be able to run acceptance suites in which the
+puppetmaster is started/stopped using package provided init scripts, or
+by restarting apache if a passenger puppetmaster package is installed.
+
+This PR takes the approach of enhancing Beaker::Host with a few query
+methods controlled by host properties, either set in the hosts.cfg, or
+directly on a master Beaker::Host instance during the execution of a
+setup step.  The added properties are:
+
+ * 'use-service' : if true, service scripts will be used instead of
+manually starting a webrick master
+ * 'passenger'   : if true, indicates a passenger package has been
+installed, and by default graceful service restarts will be used
+ * 'puppetservice' : the 'puppetservice' property has been added to the
+Beaker::Host::Unix.foss_defaults with the value of 'puppetmaster'.  It
+should be set to the appropriate service script name for passenger if a
+passenger package has been installed.
+ * 'graceful-restarts' : can be set false if you want to stop/start with
+service scripts rather than use graceful restarts when running with
+passenger
+
+The Beaker::Host#uses_passenger! call may be used to set a host
+appropriately for passenger.
+
+The graceful restarts facility of the dsl helper's bounce method assumes
+apache2 was used for passenger and that apach2ctl is available.
+
+Any existing test suite which does not 'opt-in' to any of these service
+host changes by specifying any of the above properties should not be
+effected by this commit.
+
+There is also a spec related change to the FakeHost helper, which
+previously was a stub pretending to provide Beaker::Host like facilities
+and recording commands for review.  This became unwieldy when the
+various query methods for use_service_scripts? is_using_passenger? and
+so forth were added, and the FakeHost has been updated to instead use
+Beaker::Host.create to provide a host instance that is then extended
+with the MockedExec module stubbing the exec facilities for testing.
+```
+* (QENG-188) Allow foss runs to use service scripts, take 2 (577fce4d)
+
+
+```
+(QENG-188) Allow foss runs to use service scripts, take 2
+
+Prior to this commit, any run of beaker with a non-pe master that
+attempted to stand up a master with a particular configuration in order
+to test against it using the with_puppet_running_on() helper would
+always stand up a webrick master by executing `puppet master <args>` and
+then later stop it with `kill`.
+
+The platform team needs to be able to run acceptance suites in which the
+puppetmaster is started/stopped using package provided init scripts, or
+by restarting apache if a passenger puppetmaster package is installed.
+
+This PR takes the approach of enhancing Beaker::Host with a few query
+methods controlled by host properties, either set in the hosts.cfg, or
+directly on a master Beaker::Host instance during the execution of a
+setup step.  The added properties are:
+
+ * 'use-service' : if true, service scripts will be used instead of
+manually starting a webrick master
+ * 'passenger'   : if true, indicates a passenger package has been
+installed, and by default graceful service restarts will be used
+ * 'puppetservice' : the 'puppetservice' property has been added to the
+Beaker::Host::Unix.foss_defaults with the value of 'puppetmaster'.  It
+should be set to the appropriate service script name for passenger if a
+passenger package has been installed.
+ * 'graceful-restarts' : can be set false if you want to stop/start with
+service scripts rather than use graceful restarts when running with
+passenger
+
+The Beaker::Host#uses_passenger! call may be used to set a host
+appropriately for passenger.
+
+The graceful restarts facility of the dsl helper's bounce method assumes
+apache2 was used for passenger and that apach2ctl is available.
+
+Any existing test suite which does not 'opt-in' to any of these service
+host changes by specifying any of the above properties should not be
+effected by this commit.  The exception to this is that PE runs will use
+graceful restarts automatically with this commit.
+
+There is also a spec related change to the FakeHost helper, which
+previously was a stub pretending to provide Beaker::Host like facilities
+and recording commands for review.  This became unwieldy when the
+various query methods for use_service_scripts? is_using_passenger? and
+so forth were added, and the FakeHost has been updated to instead use
+Beaker::Host.create to provide a host instance that is then extended
+with the MockedExec module stubbing the exec facilities for testing.
+```
+* (QENG-124) get rid of add_master_entry (eb3be3e9)
+
+
+```
+(QENG-124) get rid of add_master_entry
+
+- execution of add_master_entry has been off by default for a while, so
+  we know that this code is no longer necessary, this is just clean up
+```
 * Merge pull request #229 from anodelman/pkg-vs-cmd (7b0efa1b)
 
 
@@ -2291,6 +2066,21 @@ Merge pull request #293 from anodelman/junit
 
 * GH-312 -  Value needs to be nil if it has no value (eb984967)
 
+* Ensure IS_PE only respects different values (36abc3d8)
+
+
+```
+Ensure IS_PE only respects different values
+
+Previously if we set the IS_PE or BEAKER_IS_PE environment variable at
+all we would automatically make the run a PE run. This caused
+non-obvious behavior for users that set IS_PE=false.
+
+This changes the searching of the environment to only set the :type
+option if [BEAKER_]IS_PE=yes|true.
+
+Signed-off-by: Justin Stoller <justin@puppetlabs.com>
+```
 * Merge pull request #311 from treydock/docker_privileged_fix (12e74e51)
 
 
@@ -2299,6 +2089,8 @@ Merge pull request #311 from treydock/docker_privileged_fix
 
 (gh-305) Start docker containers using privileged mode
 ```
+* add alias to keep current functionality (f18c71da)
+
 * Merge pull request #300 from waynr/feature/logging-improvements (145e26b7)
 
 
@@ -2369,6 +2161,8 @@ Rake tasks
 ```
 * Adding yarddoc for :noop option (ac1803b5)
 
+* Fixed test cases and bug with copy_module_to (3ec6077a)
+
 * Spec for the noops flag (ed2d52f3)
 
 * Merge pull request #303 from anodelman/vagrant-maint (1a7942ca)
@@ -2379,8 +2173,79 @@ Merge pull request #303 from anodelman/vagrant-maint
 
 (QENG-760) support for additional disk for vagrant
 ```
+* Merge pull request #308 from anodelman/make-gem (a31ba183)
+
+
+```
+Merge pull request #308 from anodelman/make-gem
+
+create 1.12.2 gem
+```
+* create 1.12.2 gem (9d534154)
+
+* Merge pull request #306 from branan/qeng_775 (4f601ce7)
+
+
+```
+Merge pull request #306 from branan/qeng_775
+
+(QENG-775) Do not use puppet to stop puppet on older PE on SLES
+```
+* Merge pull request #307 from anodelman/maint (c0e1e821)
+
+
+```
+Merge pull request #307 from anodelman/maint
+
+(MAINT) update nokogiri dependency
+```
+* (MAINT) update nokogiri dependency (7f4428ff)
+
+
+```
+(MAINT) update nokogiri dependency
+
+- Fixes: Unable to resolve dependencies: aws-sdk requires nokogiri (>= 1.4.4);
+  rbvmomi requires nokogiri (>= 1.4.1); beaker requires nokogiri (=
+  1.5.10); fog requires nokogiri (>= 1.5.11, ~> 1.5)
+```
+* (QENG-775) Do not use puppet to stop puppet on older PE on SLES (d6edc27b)
+
+
+```
+(QENG-775) Do not use puppet to stop puppet on older PE on SLES
+
+A bug in the init script on older versions of SLES causes the init
+script to kill our `puppet resource` invocation as well as the daemon
+agent.
+```
+* (QENG-725) Minor code cleanup and EZBakeUtils fix. (2f9ee267)
+
+
+```
+(QENG-725) Minor code cleanup and EZBakeUtils fix.
+
+* Fixes defaultsdir argument passed to make in `install_from_ezbake` for debian
+  systems.
+* Adds `--force-yes` to apt-get calls when installing packages on debian.
+* Minor code cleanup when interpreting package and version information from
+  `ezbake_config`
+
+Signed-off-by: Wayne <wayne@puppetlabs.com>
+```
 * Improve documentation for Open Source installation methods (77ea1f45)
 
+* (QENG-716) Add package_version option to install_package. (9acb4f20)
+
+
+```
+(QENG-716) Add package_version option to install_package.
+
+Makes more sense to make this optional behavior in `install_package` than to
+implement new method.
+
+Signed-off-by: Wayne <wayne@puppetlabs.com>
+```
 * OptionsHash is already indifferent (d8f3f787)
 
 * (QENG-760) support for additional disk for vagrant (d2449cab)
@@ -2393,6 +2258,8 @@ Merge pull request #303 from anodelman/vagrant-maint
   disk or use the provided disk
 - defaults to 50 x 1024 bytes if the disk needs to created
 ```
+* Improve documentation and readability of environment parsing improvements (b27ac271)
+
 * Refactor `puppet_install` (09a519a3)
 
 
@@ -2408,6 +2275,27 @@ code duplication. It does not change any behavior.
 
 * Fixed issue with default behavior not picking up type and hosts from rake task (3bcbfe6d)
 
+* refactor copy_root_module_to copy_module_to, also changed the behavior of puppet_module_install_on to use the PMT tool instead of copying the whole file to it (1718342c)
+
+* Merge pull request #224 from anodelman/fix-default (7fb3468a)
+
+
+```
+Merge pull request #224 from anodelman/fix-default
+
+(QENG-597) 'master' DSL helper can return a non-master node...
+```
+* (QENG-725) Minor bugfix and documentation addition. (26d518d1)
+
+
+```
+(QENG-725) Minor bugfix and documentation addition.
+
+* Document `ezbake_stage` method.
+* Fix directory creation bug in `conditionally_clone` method.
+
+Signed-off-by: Wayne <wayne@puppetlabs.com>
+```
 * (MAINT) Make retry_command output easier on the eyes. (7776fc93)
 
 
@@ -2436,6 +2324,14 @@ Signed-off-by: Wayne <wayne@puppetlabs.com>
   becomes an empty array which made this method call okay previously. However,
   if there are no arguments in "*args" then no args get passed down to
   optionally_color, thus the arity of the original "*args" is preserved.
+
+Signed-off-by: Wayne <wayne@puppetlabs.com>
+```
+* (QENG-725) Adds spec tests for EZBakeUtils. (d5665ffb)
+
+
+```
+(QENG-725) Adds spec tests for EZBakeUtils.
 
 Signed-off-by: Wayne <wayne@puppetlabs.com>
 ```
@@ -2510,163 +2406,20 @@ Signed-off-by: Justin Stoller <justin@puppetlabs.com>
 ```
 * fixup merge conflicts (70491772)
 
+* (QENG-758) add ability to select a group a beaker hosts based upon... (6acb6147)
+
+
+```
+(QENG-758) add ability to select a group a beaker hosts based upon...
+
+...a set of properties
+
+- a shortcut means of selecting a sub group of hosts to run commands on
+```
 * fix yard docs (1e947592)
 
 * Remove the host tasks until we can fully bake what the use case is (fea24261)
 
-* Remove assumption of delivery.puppetlabs.net (1aec8b3f)
-
-* Add noop argument (4bfb3848)
-
-* (QENG-713) Update to create_tmpdir_for_user, add spectests (afa13318)
-
-
-```
-(QENG-713) Update to create_tmpdir_for_user, add spectests
-
-Use `on` instead of `host.exec`.
-Also removes test for Unix::Host.puppet_tmpdir.
-
-Signed-off-by: Wayne <wayne@puppetlabs.com>
-```
-* (QENG-713) Adds create_tmpdir_on DSL method. (2e899fe2)
-
-
-```
-(QENG-713) Adds create_tmpdir_on DSL method.
-
-Signed-off-by: Wayne <wayne@puppetlabs.com>
-```
-* (QENG-713) use DSL to access --configprint value (3c9c17c7)
-
-* Refactor to have a single maintainable file for test tasks and require the rake task object (d4ca624d)
-
-* (QENG-713) add test case and docs for 'puppet_tmpdir' method (76e0a923)
-
-* (QENG-713) add 'puppet_tmpdir' method (92ad65cb)
-
-
-```
-(QENG-713) add 'puppet_tmpdir' method
-
-Add a 'puppet_tmpdir' method in Unix::File that creates temporary
-directories which are owned by the puppet user.
-```
-* Add the commands to install OSX. (b6d24c90)
-
-* (QENG-714/QENG-686) use all junit tags available for beaker xml output... (5aff9fc2)
-
-
-```
-(QENG-714/QENG-686) use all junit tags available for beaker xml output...
-
-... provide local xslt for viewing beaker xml output
-
-- switch over to nokogiri (cleaner, easier)
-- add logs to system-out tag
-- add tag for time that each test suite takes to execute
-- add property tags for each beaker option
-- add junit.xsl stylesheet to interpret test results
-```
-* (QENG-608) Check_for_package method should not use which command (23d471a2)
-
-
-```
-(QENG-608) Check_for_package method should not use which command
-
-- properly differentiate between packages and commands
-- check_for_package updated to check for the given package name using
-  the correct package manager per OS
-- added check_for_command, which uses 'which' to determine if a command
-  is currently available
-- added spec test coverage for check_for_package
-```
-* Add extendable rake task to have define on projects utilizing beaker (a7756853)
-
-* (QENG-438) Pass feature flags to all instances of `apply_manifest_on` (8383b54a)
-
-
-```
-(QENG-438) Pass feature flags to all instances of `apply_manifest_on`
-
-Prior to this there was a number of configurable options that would
-tweak Puppet's behavior when using apply_manifest_on. However there
-was no good way of setting all instances of apply_manifest_on to use
-a certain set of flags. e.g. set "future" parser to be true for a specific
-run of suite without changing all of the tests to explicitly set the
-future parser option on apply_manifest_on. This allows users to set default
-flags to be passed to puppet when apply_manifest_on is called in the host
-file, or in a pre-test step.
-
-Example Host file:
-  HOSTS:
-    master:
-      roles: [ 'master', 'agent' ]
-      default_apply_opts:
-        parser: future
-
-Example BeakerRSpec spec_helper.rb
-  hosts.each do |host|
-    host[:default_apply_opts] ||= {}
-    host[:default_apply_opts].merge!( :parser => 'future' ) if ENV['FUTURE_PARSER'] == 'true'
-  end
-```
-### <a name = "beaker1.12.2">beaker1.12.2 - 12 Jun, 2014 (a31ba183)
-
-* Merge pull request #308 from anodelman/make-gem (a31ba183)
-
-
-```
-Merge pull request #308 from anodelman/make-gem
-
-create 1.12.2 gem
-```
-* create 1.12.2 gem (9d534154)
-
-* Merge pull request #306 from branan/qeng_775 (4f601ce7)
-
-
-```
-Merge pull request #306 from branan/qeng_775
-
-(QENG-775) Do not use puppet to stop puppet on older PE on SLES
-```
-* Merge pull request #307 from anodelman/maint (c0e1e821)
-
-
-```
-Merge pull request #307 from anodelman/maint
-
-(MAINT) update nokogiri dependency
-```
-* (MAINT) update nokogiri dependency (7f4428ff)
-
-
-```
-(MAINT) update nokogiri dependency
-
-- Fixes: Unable to resolve dependencies: aws-sdk requires nokogiri (>= 1.4.4);
-  rbvmomi requires nokogiri (>= 1.4.1); beaker requires nokogiri (=
-  1.5.10); fog requires nokogiri (>= 1.5.11, ~> 1.5)
-```
-* (QENG-775) Do not use puppet to stop puppet on older PE on SLES (d6edc27b)
-
-
-```
-(QENG-775) Do not use puppet to stop puppet on older PE on SLES
-
-A bug in the init script on older versions of SLES causes the init
-script to kill our `puppet resource` invocation as well as the daemon
-agent.
-```
-* Merge pull request #224 from anodelman/fix-default (7fb3468a)
-
-
-```
-Merge pull request #224 from anodelman/fix-default
-
-(QENG-597) 'master' DSL helper can return a non-master node...
-```
 * Merge pull request #273 from electrical/feature/proxy (1565da4a)
 
 
@@ -2700,6 +2453,8 @@ Merge pull request #247 from JHaals/hypervisor
 
 Support custom hypervisors
 ```
+* Remove assumption of delivery.puppetlabs.net (1aec8b3f)
+
 * Merge pull request #285 from anodelman/pry-support (57830472)
 
 
@@ -2707,6 +2462,24 @@ Support custom hypervisors
 Merge pull request #285 from anodelman/pry-support
 
 (QENG-695) beaker workflow with pry
+```
+* (QENG-725) Implements install_from_ezbake. (b764cf51)
+
+
+```
+(QENG-725) Implements install_from_ezbake.
+
+Adds a new module, Beaker::DSL::EZbake to extend the Beaker DSL with
+functionality that should be useful across multiple JVM based projects,
+particularly those that use TrapperKeeper and are packaged using ezbake.
+
+Don't want to add user to system from install_from_ezbake, that should be done
+at a higher level or from within a preinst step if absolutely necessary. Also
+shouldn't be making any puppet calls using Beaker before the Puppet master is
+run for the first time using init scripts since this will lead to
+/var/lib/puppet directories being owned by root. Bad.
+
+Signed-off-by: Wayne <wayne@puppetlabs.com>
 ```
 * Merge pull request #290 from anodelman/remove-expand-path (a6e1c722)
 
@@ -2716,54 +2489,36 @@ Merge pull request #290 from anodelman/remove-expand-path
 
 (QENG-40) remove expandpath from file loading in beaker require blocks
 ```
-* (QENG-40) remove expandpath from file loading in beaker require blocks (0ec356f8)
+* Add noop argument (4bfb3848)
+
+* (QENG-716) install_package_version (720854c2)
 
 
 ```
-(QENG-40) remove expandpath from file loading in beaker require blocks
+(QENG-716) install_package_version
 
-- just use an expected path in requires
+This commit adds 'install_package_version' method to the DSL helper utils and an
+associated method that given package name as well as optional version string
+that will be used to construct a package name that includes a specific version
+string for installation on the SUT.
+
+This currently only supports apt and yum based package managers, as I am no
+familiar enough with other platforms. For non apt or yum based platforms, an
+exception will be raised.
+
+Signed-off-by: Wayne <wayne@puppetlabs.com>
 ```
-* (QENG-695) beaker workflow with pry (87807287)
-
-
-```
-(QENG-695) beaker workflow with pry
-
-- add pry gem to development environment
-```
-* Add option to enable and set package manager proxy url (224480d6)
-
-
-```
-Add option to enable and set package manager proxy url
-
-With this feature you can set the proxy url for the package manager.
-Currently supports Yum and Apt package managers.
-```
-* Support custom hypervisors (230a47b3)
-
-* (QENG-597) 'master' DSL helper can return a non-master node... (0121835a)
+* (QENG-713) Update to create_tmpdir_for_user, add spectests (afa13318)
 
 
 ```
-(QENG-597) 'master' DSL helper can return a non-master node...
+(QENG-713) Update to create_tmpdir_for_user, add spectests
 
-...when actual master is confined away
+Use `on` instead of `host.exec`.
+Also removes test for Unix::Host.puppet_tmpdir.
 
-- change around the logic so that the default node is defined at options
-  parsing, not during test runtime
-- determine the default node by it either being
-  1.  the node with the role defined  as 'default'
-  2.  the master node
-  3.  the only node
-  Then add the role 'default' to that node, if necessary
-- differentiate between master and default, no longer allow the default
-  to be used as a master if the master is undefined (keep roles clear,
-  the master should only be the node defined as master)
+Signed-off-by: Wayne <wayne@puppetlabs.com>
 ```
-### <a name = "beaker1.12.1">beaker1.12.1 - 30 May, 2014 (36b14dc7)
-
 * Merge pull request #291 from anodelman/make-gem (36b14dc7)
 
 
@@ -2790,6 +2545,14 @@ Merge pull request #287 from branan/qeng-740
 
 (QENG-740) Insert a flag into the options hash when doing a PE upgrade
 ```
+* (QENG-40) remove expandpath from file loading in beaker require blocks (0ec356f8)
+
+
+```
+(QENG-40) remove expandpath from file loading in beaker require blocks
+
+- just use an expected path in requires
+```
 * (QENG-743) Beaker options hash 'merge' should not modify the... (25fa3529)
 
 
@@ -2801,8 +2564,25 @@ Merge pull request #287 from branan/qeng-740
 - merging two OptionsHash objects should result in a new OptionsHash
   and not affect the original hashes at all.
 ```
+* (QENG-645) Add `master-start-curl-retries` to host options. (2d499afe)
+
+
+```
+(QENG-645) Add `master-start-curl-retries` to host options.
+
+Allows per-host modification of the number of curl retries to perform when
+restarting puppet master.
+```
 * (QENG-740) Insert a flag into the options hash when doing a PE upgrade (13d4ffa8)
 
+* (QENG-695) beaker workflow with pry (87807287)
+
+
+```
+(QENG-695) beaker workflow with pry
+
+- add pry gem to development environment
+```
 * Merge pull request #279 from electrical/docker_input_validation (30b79043)
 
 
@@ -2810,6 +2590,14 @@ Merge pull request #287 from branan/qeng-740
 Merge pull request #279 from electrical/docker_input_validation
 
 Log an error when docker image is not set, empty or nil
+```
+* (QENG-713) Adds create_tmpdir_on DSL method. (2e899fe2)
+
+
+```
+(QENG-713) Adds create_tmpdir_on DSL method.
+
+Signed-off-by: Wayne <wayne@puppetlabs.com>
 ```
 * Merge pull request #283 from mhaskel/osx-mktemp-fix (1c54beae)
 
@@ -2821,8 +2609,23 @@ For OSX the order of parameters for mktemp matters.
 ```
 * For OSX the order of parameters for mktemp matters. (bec7d2c5)
 
+* (QENG-713) use DSL to access --configprint value (3c9c17c7)
+
 * (MAINT) Log an error when docker image is not set, empty or nil (9adb1987)
 
+* Refactor to have a single maintainable file for test tasks and require the rake task object (d4ca624d)
+
+* (QENG-713) add test case and docs for 'puppet_tmpdir' method (76e0a923)
+
+* Add option to enable and set package manager proxy url (224480d6)
+
+
+```
+Add option to enable and set package manager proxy url
+
+With this feature you can set the proxy url for the package manager.
+Currently supports Yum and Apt package managers.
+```
 * Merge pull request #268 from hunner/add_pm_install (f71cb779)
 
 
@@ -2831,10 +2634,6 @@ Merge pull request #268 from hunner/add_pm_install
 
 Move puppet_module_install out of beaker-rspec
 ```
-* Move puppet_module_install out of beaker-rspec (cb1615d5)
-
-### <a name = "beaker1.12.0">beaker1.12.0 - 21 May, 2014 (591d3595)
-
 * Merge pull request #272 from anodelman/make-gem (591d3595)
 
 
@@ -2869,18 +2668,30 @@ Merge pull request #267 from branan/el4_is_lame_comma_yo
 
 - add spec coverage for mac pe dmg install
 ```
+* Move puppet_module_install out of beaker-rspec (cb1615d5)
+
+* (QENG-713) add 'puppet_tmpdir' method (92ad65cb)
+
+
+```
+(QENG-713) add 'puppet_tmpdir' method
+
+Add a 'puppet_tmpdir' method in Unix::File that creates temporary
+directories which are owned by the puppet user.
+```
 * (maint) Do not use puppet to stop agent service on el4 (e0181123)
 
-* (QENG-337) additional platform support in beaker (mac osx) (56c9540f)
+* (QENG-431) expanded and improved role support in beaker (part 2) (ea90a311)
 
 
 ```
-(QENG-337) additional platform support in beaker (mac osx)
+(QENG-431) expanded and improved role support in beaker (part 2)
 
-- adding dmg installation support for max osx
+- add support for running commands against hosts by name
+- add support for arbitrary role methods, like those for built in roles
+    eg, on master, "echo hello"
+        on myrole, "echo hello"
 ```
-### <a name = "beaker1.11.2">beaker1.11.2 - 16 May, 2014 (f28c387b)
-
 * Merge pull request #266 from branan/release_1.11.2 (f28c387b)
 
 
@@ -2906,6 +2717,14 @@ Merge pull request #265 from branan/stop_agent_with_puppet
 Merge pull request #254 from nicklewis/root-keys-redirect
 
 Follow redirects to get root keys script
+```
+* (QENG-337) additional platform support in beaker (mac osx) (56c9540f)
+
+
+```
+(QENG-337) additional platform support in beaker (mac osx)
+
+- adding dmg installation support for max osx
 ```
 * (maint) Always use puppet to stop the agent service (7df657fc)
 
@@ -2952,19 +2771,6 @@ This adds a helper for testing Razor
 
 Signed-off-by: Daniel Pittman <daniel@rimspace.net>
 ```
-* Follow redirects to get root keys script (d2097f53)
-
-
-```
-Follow redirects to get root keys script
-
-This URL has changed from raw.github.com to raw.githubusercontent.com,
-but the curl command wasn't following redirects. This updates the URL
-and also adds the appropriate flag for redirects to protect against any
-such future redirects.
-```
-### <a name = "beaker1.11.1">beaker1.11.1 - 15 May, 2014 (f684a724)
-
 * Merge pull request #261 from anodelman/make-gem (f684a724)
 
 
@@ -2999,6 +2805,8 @@ Merge pull request #257 from anodelman/upgrade-ver
 
 (QENG-672) Beaker will ignore host-specific pe_dir if a global pe_dir...
 ```
+* Add the commands to install OSX. (b6d24c90)
+
 * Merge pull request #253 from electrical/docker_image_removal (1bd03328)
 
 
@@ -3034,6 +2842,31 @@ Merge pull request #246 from justinstoller/feature/master/QENG-514-print_origina
 
 - do not set nil/'' values as metaData
 - do not set metaData at all if there are no values
+```
+* (QENG-714/QENG-686) use all junit tags available for beaker xml output... (5aff9fc2)
+
+
+```
+(QENG-714/QENG-686) use all junit tags available for beaker xml output...
+
+... provide local xslt for viewing beaker xml output
+
+- switch over to nokogiri (cleaner, easier)
+- add logs to system-out tag
+- add tag for time that each test suite takes to execute
+- add property tags for each beaker option
+- add junit.xsl stylesheet to interpret test results
+```
+* Follow redirects to get root keys script (d2097f53)
+
+
+```
+Follow redirects to get root keys script
+
+This URL has changed from raw.github.com to raw.githubusercontent.com,
+but the curl command wasn't following redirects. This updates the URL
+and also adds the appropriate flag for redirects to protect against any
+such future redirects.
 ```
 * Add option to preserve the built docker image (85380b03)
 
@@ -3095,6 +2928,26 @@ Merge pull request #236 from liamjbennett/windows_instalpuppet
 
 adding support for windows to install_puppet
 ```
+* Merge pull request #245 from anodelman/make-gem (a389e3d1)
+
+
+```
+Merge pull request #245 from anodelman/make-gem
+
+create beaker 1.11.0 gem
+```
+* (QENG-5156) Provide Important Env Vars Set in Debug Output (88c18537)
+
+
+```
+(QENG-5156) Provide Important Env Vars Set in Debug Output
+
+This provides the Environment Variables that are pertinent to running
+Beaker as an error message after a failed run or as a debug message
+on a successful run in the debug log level.
+```
+* Support custom hypervisors (230a47b3)
+
 * (QENG-514) Provide the Command Beaker was Ran with in Debug Output (312c7797)
 
 
@@ -3103,29 +2956,6 @@ adding support for windows to install_puppet
 
 This prints at the end of the run the application & arguments to stdout
 if log level is debug *or* if the run failed.
-```
-* Refactor parser specs to be more robust (0bee5099)
-
-
-```
-Refactor parser specs to be more robust
-
-This removes unnecessary tests and changes the expected output
-to only test for the parsed inputs (not testing the default values)
-```
-* updating install_puppet to support 32-bit windows (005a49c6)
-
-* adding support for windows to install_puppet (b9dde43f)
-
-### <a name = "beaker1.11.0">beaker1.11.0 - 8 May, 2014 (a389e3d1)
-
-* Merge pull request #245 from anodelman/make-gem (a389e3d1)
-
-
-```
-Merge pull request #245 from anodelman/make-gem
-
-create beaker 1.11.0 gem
 ```
 * create beaker 1.11.0 gem (12553059)
 
@@ -3147,6 +2977,17 @@ Merge pull request #242 from anodelman/jwt-break
 
 - jwt was updated today and caused this break
 ```
+* Refactor parser specs to be more robust (0bee5099)
+
+
+```
+Refactor parser specs to be more robust
+
+This removes unnecessary tests and changes the expected output
+to only test for the parsed inputs (not testing the default values)
+```
+* updating install_puppet to support 32-bit windows (005a49c6)
+
 * Merge pull request #239 from mhaskel/allow-el-7 (96bf2669)
 
 
@@ -3174,6 +3015,8 @@ Merge pull request #235 from liamjbennett/fix_sshtoroot
 fixing ssh_to_root when run on windows
 ```
 * adding yardoc for new option (94d2586a)
+
+* adding support for windows to install_puppet (b9dde43f)
 
 * fixing ssh_to_root when run on windows (a8180fcf)
 
@@ -3254,6 +3097,21 @@ Merge pull request #231 from anodelman/1.8-travis-failures
 ```
 * Convert to using options instead of params for copy_root_module_to (a0d73bc9)
 
+* (QENG-608) Check_for_package method should not use which command (23d471a2)
+
+
+```
+(QENG-608) Check_for_package method should not use which command
+
+- properly differentiate between packages and commands
+- check_for_package updated to check for the given package name using
+  the correct package manager per OS
+- added check_for_command, which uses 'which' to determine if a command
+  is currently available
+- added spec test coverage for check_for_package
+```
+* Add extendable rake task to have define on projects utilizing beaker (a7756853)
+
 * Merge pull request #228 from anodelman/yard-travis (85687615)
 
 
@@ -3314,6 +3172,25 @@ rename extra_commands to docker_image_commands
 Before all the docker handles were prefixed with docker_ *apart* from the one
 for extra_commands.  For consistency rename it.
 ```
+* (QENG-597) 'master' DSL helper can return a non-master node... (0121835a)
+
+
+```
+(QENG-597) 'master' DSL helper can return a non-master node...
+
+...when actual master is confined away
+
+- change around the logic so that the default node is defined at options
+  parsing, not during test runtime
+- determine the default node by it either being
+  1.  the node with the role defined  as 'default'
+  2.  the master node
+  3.  the only node
+  Then add the role 'default' to that node, if necessary
+- differentiate between master and default, no longer allow the default
+  to be used as a master if the master is undefined (keep roles clear,
+  the master should only be the node defined as master)
+```
 * Add ability to copy root module out to a host server (b9bd845d)
 
 * don't allow docker on ruby 1.8 (063a8183)
@@ -3328,10 +3205,482 @@ don't allow docker on ruby 1.8
 - raise an error if attempting to use the docker hypervisor with ruby <
   1.9
 ```
+* Merge pull request #220 from anodelman/make-gem (fbef5d2b)
+
+
+```
+Merge pull request #220 from anodelman/make-gem
+
+create beaker 1.10.0 gem
+```
+* create beaker 1.10.0 gem (07b37988)
+
+* Merge pull request #219 from kylog/maint/remove-unneeded-apt-get-install-options (bb199d3e)
+
+
+```
+Merge pull request #219 from kylog/maint/remove-unneeded-apt-get-install-options
+
+(maint) Remove unneeded options for 'apt-get update'
+```
+* (maint) Remove unneeded options for 'apt-get update' (46abba11)
+
+
+```
+(maint) Remove unneeded options for 'apt-get update'
+
+Previously apt-get update was invoked with the -y -f -m
+options. None of these options actually make sense for *update*
+(though -y makes total sense for *install*). Starting with
+trusty's apt-get, apt-get actually rejects (at least) -f for
+apt-get install.
+
+So this patch simply removes those unneeded options.
+```
+* Merge pull request #217 from anodelman/fix-filesort (461dc5ff)
+
+
+```
+Merge pull request #217 from anodelman/fix-filesort
+
+(MAINT) correctly sort test files
+```
+* (MAINT) correctly sort test files (43f58f85)
+
+
+```
+(MAINT) correctly sort test files
+
+- turns out that we aren't actually correctly sorting files and this
+  affects how tests are run on hosts.
+```
+* Merge pull request #216 from anodelman/wrap-ip (935bf5b4)
+
+
+```
+Merge pull request #216 from anodelman/wrap-ip
+
+(QENG-486) add easy access to ip address per beaker host
+```
+* (QENG-486) add easy access to ip address per beaker host (5ab04522)
+
+
+```
+(QENG-486) add easy access to ip address per beaker host
+
+- either use the already determined ip address or figure it out through
+  ifconfig/ipconfig
+```
+* Merge pull request #214 from cyberious/windows_vagrant (e19b0f1d)
+
+
+```
+Merge pull request #214 from cyberious/windows_vagrant
+
+Add beaker windows support to auto identify port and guest
+```
+* Merge pull request #211 from waynr/features/arbitary-puppetservice-name_curl-with-retries (9287c068)
+
+
+```
+Merge pull request #211 from waynr/features/arbitary-puppetservice-name_curl-with-retries
+
+Features/arbitary puppetservice name curl with retries
+```
+* Merge pull request #207 from electrical/future_parser (1022e573)
+
+
+```
+Merge pull request #207 from electrical/future_parser
+
+Add future parser as option when applying a manifest
+```
+* Add beaker windows support to auto identify port and guest (103b00eb)
+
+* Merge pull request #203 from kbarber/ticket/master/pdb-554 (e055e6c9)
+
+
+```
+Merge pull request #203 from kbarber/ticket/master/pdb-554
+
+Ticket/master/pdb 554 Fix zombied instances and volumes for EC2
+```
+* (QENG-438) Pass feature flags to all instances of `apply_manifest_on` (8383b54a)
+
+
+```
+(QENG-438) Pass feature flags to all instances of `apply_manifest_on`
+
+Prior to this there was a number of configurable options that would
+tweak Puppet's behavior when using apply_manifest_on. However there
+was no good way of setting all instances of apply_manifest_on to use
+a certain set of flags. e.g. set "future" parser to be true for a specific
+run of suite without changing all of the tests to explicitly set the
+future parser option on apply_manifest_on. This allows users to set default
+flags to be passed to puppet when apply_manifest_on is called in the host
+file, or in a pre-test step.
+
+Example Host file:
+  HOSTS:
+    master:
+      roles: [ 'master', 'agent' ]
+      default_apply_opts:
+        parser: future
+
+Example BeakerRSpec spec_helper.rb
+  hosts.each do |host|
+    host[:default_apply_opts] ||= {}
+    host[:default_apply_opts].merge!( :parser => 'future' ) if ENV['FUTURE_PARSER'] == 'true'
+  end
+```
+* Merge pull request #209 from anodelman/optional-validation (1fb25d3a)
+
+
+```
+Merge pull request #209 from anodelman/optional-validation
+
+(QENG-433) make validation steps in beaker optional
+```
+* Merge pull request #202 from anodelman/exit-with-xml (43e2f8b0)
+
+
+```
+Merge pull request #202 from anodelman/exit-with-xml
+
+(QENG-409) Beaker does not write out JUnit XML when...
+```
+* Add test and yardoc (d1d7f05e)
+
+* PDB-554 Remove wait_for_ssh now the underlying layers handles it (cc9bd071)
+
+
+```
+PDB-554 Remove wait_for_ssh now the underlying layers handles it
+
+Signed-off-by: Ken Barber <ken@bob.sh>
+```
+* (QENG-425) Alter with_puppet_running_on logic. (ec2dba43)
+
+
+```
+(QENG-425) Alter with_puppet_running_on logic.
+
+Only use initscript to restart if puppetservice is defined.
+
+Signed-off-by: Wayne <wayne@puppetlabs.com>
+```
+* Merge pull request #205 from anodelman/vmname-confusion (71e3db8e)
+
+
+```
+Merge pull request #205 from anodelman/vmname-confusion
+
+(maint) create host.hostname procedure
+```
+* Merge pull request #197 from anodelman/google-cloud (3666309c)
+
+
+```
+Merge pull request #197 from anodelman/google-cloud
+
+(QENG-407) update google compute to differentiate between template and platform
+```
+* PDB-554 Execute configure_hosts() after wait_for_ssh() (b8a47ead)
+
+
+```
+PDB-554 Execute configure_hosts() after wait_for_ssh()
+
+Signed-off-by: Ken Barber <ken@bob.sh>
+```
+* PDB-554 Provide a bare minimum /etc/hosts for Ubuntu 10.04 compatibility (cf1f6760)
+
+
+```
+PDB-554 Provide a bare minimum /etc/hosts for Ubuntu 10.04 compatibility
+
+Signed-off-by: Ken Barber <ken@bob.sh>
+```
+* PDB-554 Use ec2's dynamic names (db5f514e)
+
+
+```
+PDB-554 Use ec2's dynamic names
+
+This obviates the need for /etc/hosts modification by using the EC2 public
+names only.
+
+Signed-off-by: Ken Barber <ken@bob.sh>
+```
+* (QENG-431) expanded and improved role support in beaker (4797313e)
+
+
+```
+(QENG-431) expanded and improved role support in beaker
+
+- make is possible to use arbitrary role names for most beaker DSL APIs
+```
+* PDB-554 Correct handling of /etc/hosts creation and ensure hostnames are set (8d0e76c8)
+
+
+```
+PDB-554 Correct handling of /etc/hosts creation and ensure hostnames are set
+
+Signed-off-by: Ken Barber <ken@bob.sh>
+```
+* PDB-554 Use hack_etc_hosts instead and make a wait_for_ssh method (1b7fb16d)
+
+
+```
+PDB-554 Use hack_etc_hosts instead and make a wait_for_ssh method
+
+The wait_for_ssh method works around a race during provisioning whereby a
+machine can come up and be ready for SSH connections, but you will get an
+authenthentication error if you try to quickly.
+
+Signed-off-by: Ken Barber <ken@bob.sh>
+```
+* (QENG-425) Support optional curl_with_retries behavior. (f8410ada)
+
+
+```
+(QENG-425) Support optional curl_with_retries behavior.
+
+Specifically, when restarting the puppet master using the initscript/service,
+allow per-host configuration to specify whether or not to actually wait for the
+puppet master to listen on port 8140 by attemping to grok with. Try up to 120
+times at 1-second intervals.
+
+Signed-off-by: Wayne <wayne@puppetlabs.com>
+```
+* (QENG-425) Generalize with_puppet_running_on method. (2b56e90a)
+
+
+```
+(QENG-425) Generalize with_puppet_running_on method.
+
+Instead of always using pe-httpd as the service name for PE Puppet master, set
+that as the default and allow customization on a per-host basis (probably
+through Beaker config).
+
+Signed-off-by: Wayne <wayne@puppetlabs.com>
+```
+* PDB-554 Decompose #provision and break out amiports into its own class (e8be9cf8)
+
+
+```
+PDB-554 Decompose #provision and break out amiports into its own class
+
+Signed-off-by: Ken Barber <ken@bob.sh>
+```
+* Merge pull request #201 from maestrodev/provision-anyway (628d712c)
+
+
+```
+Merge pull request #201 from maestrodev/provision-anyway
+
+If provision option is set to false but Vagrantfile not found, then provision anyway
+```
+* Error early if provision option is set to false but Vagrantfile not found (20ae80b4)
+
+
+```
+Error early if provision option is set to false but Vagrantfile not found
+
+User needs to enable provision
+```
+* (QENG-433) make validation steps in beaker optional (e2fa5239)
+
+
+```
+(QENG-433) make validation steps in beaker optional
+
+- turn on/off with -(-no)-validate
+- defaults to 'true'
+```
+* Add future parser as option when applying a manifest (6eb69b1e)
+
+
+```
+Add future parser as option when applying a manifest
+
+This option can enable the use of the future parser when applying a manifest.
+I'm not 100% sure though what it will do on older puppet versions that don't support that option.
+```
 * Add moduledir defaults to windows hosts (f2cc22de)
 
+* (maint) create host.hostname procedure (27581ea9)
+
+
+```
+(maint) create host.hostname procedure
+
+- convenience method for accessing the hostname of the given host
+```
+* PDB-554 Set ENV variable jenkins_build_url to ensure test matches (5fffee41)
+
+
+```
+PDB-554 Set ENV variable jenkins_build_url to ensure test matches
+
+Signed-off-by: Ken Barber <ken@bob.sh>
+```
+* firewall + ssh fixes for google compute (e45b4694)
+
+
+```
+firewall + ssh fixes for google compute
+
+- firewall allows ports 8080/8081
+- retry on failure to authenticate errors (happens when google compute
+  boxes haven't successfully spun up yet)
+```
+* PDB-554 Add image checking and root device setup (5b9b7da1)
+
+
+```
+PDB-554 Add image checking and root device setup
+
+Signed-off-by: Ken Barber <ken@bob.sh>
+```
+* (QENG-409) Beaker does not write out JUnit XML when... (5a8b5297)
+
+
+```
+(QENG-409) Beaker does not write out JUnit XML when...
+
+...certain internal exceptions occur
+- on ruby 1.8 Timeouts are raised as Interrupt (parented by SignalException)
+  instead of out of RuntimeError (which is parented by StandardError) and are
+  thus not being caught appropraitely.
+- added spec test coverage for correct error reporting
+```
+* PDB-554 Implement a new EC2 backend and add jenkins_build_url to tags (44e8258a)
+
+
+```
+PDB-554 Implement a new EC2 backend and add jenkins_build_url to tags
+
+This patch implements a replacement for the blimpy backend. It replaces the
+use of blimpy to launch EC2 nodes with the Amazon AWS::EC2 library.
+
+This was introduced to provide more control over handling error states, without
+the granular control of a lower level library we are relying on blimpy to have
+error handling (which it largely does not).
+
+My theory was that we could either improve blimpy to do more, or just replace
+it with a better driver that allows us to maintain our provisioning code on
+its own without worrying about an upstream project. Since we don't use blimpy
+for anything else, and we don't want the delay of having an upstream project
+release our changes replacement seemed like a better option.
+
+The driver is initiated with the hypervisor: ec2 setting in the users template
+files and is built to match the blimpy behaviour in the way it configures
+security groups and key pairs. To a reasonable extent users using blimpy right
+now should be able to switch over with very little change.
+
+As an aside, I've also added the ability to pass through the BUILD_URL from
+a jenkins job as a tag in EC2 (and I've added this code to GCE as well). This
+allows a better traceback from VM's to a particular job so we can identify
+zombied jobs better.
+
+Signed-off-by: Ken Barber <ken@bob.sh>
+```
+* (QENG-407) update google compute to differentiate between template and platform (b29dcfcd)
+
+
+```
+(QENG-407) update google compute to differentiate between template and platform
+
+- assume that the google compute image name will be in host[:image],
+  otherwise default to host[:platform]
+- fixes up the differentiations between google naming rules and our
+  internal platform naming rules
+```
+* Merge pull request #196 from anodelman/make-gem (747ee73e)
+
+
+```
+Merge pull request #196 from anodelman/make-gem
+
+create beaker 1.9.1 gem
+```
+* create beaker 1.9.1 gem (edc0a229)
+
+
+```
+create beaker 1.9.1 gem
+
+- fix vagrant support
+```
+* Merge pull request #195 from anodelman/vagrant-etc-hosts (c28beef8)
+
+
+```
+Merge pull request #195 from anodelman/vagrant-etc-hosts
+
+(maint) vagrant hypervisor support broken by bad call to hack_etc_hosts
+```
+* (maint) vagrant hypervisor support broken by bad call to hack_etc_hosts (843135a3)
+
+
+```
+(maint) vagrant hypervisor support broken by bad call to hack_etc_hosts
+
+- nertz
+```
+* Merge pull request #194 from anodelman/make-gem (7feb8327)
+
+
+```
+Merge pull request #194 from anodelman/make-gem
+
+create beaker 1.9.0 gem
+```
+* create beaker 1.9.0 gem (e4e2d9eb)
+
+* Merge pull request #151 from anodelman/refactor-fetch (e5fd940d)
+
+
+```
+Merge pull request #151 from anodelman/refactor-fetch
+
+(QA-769) Beaker fetch_puppet for PE needs to be refactored
+```
+* Merge pull request #187 from colinPL/fusion_spec_spanshots (adbc085a)
+
+
+```
+Merge pull request #187 from colinPL/fusion_spec_spanshots
+
+(maint) Add spec Tests for Empty Fusion Snapshots
+```
+* Merge pull request #193 from anodelman/curl-wrapper (c5cce8fd)
+
+
+```
+Merge pull request #193 from anodelman/curl-wrapper
+
+(QENG-382) Acceptance tests use curl's default ssl settings
+```
+* Merge pull request #181 from anodelman/ec2-tags (e6f760d7)
+
+
+```
+Merge pull request #181 from anodelman/ec2-tags
+
+(OPS-2548) Cloud Asset Tagging for QA
+```
 * Add spec testing to the docker hypervisor (2c159e77)
 
+* Merge pull request #167 from anodelman/google-cloud (aed481f0)
+
+
+```
+Merge pull request #167 from anodelman/google-cloud
+
+Google cloud support in beaker
+```
 * Make the mkdir always succeed (76ad591d)
 
 
@@ -3351,6 +3700,25 @@ When doing PE testing the platform name is used to determine which
 PE tarball is required.  For RedHat Enterprise Linux derivatives
 the platform identifier is /^el-/
 ```
+* (QENG-382) Acceptance tests use curl's default ssl settings (b851da4f)
+
+
+```
+(QENG-382) Acceptance tests use curl's default ssl settings
+
+- create curl_on dsl extension, runs curl command with --sslv3 when
+  executing PE tests
+```
+* Merge pull request #192 from kylog/maint/pin-rake-to-support-ruby-1.8.7 (0ff1f9c2)
+
+
+```
+Merge pull request #192 from kylog/maint/pin-rake-to-support-ruby-1.8.7
+
+(maint) Pin rake to the last version that supported ruby 1.8.7
+```
+* (maint) Pin rake to the last version that supported ruby 1.8.7 (5e498b1a)
+
 * Handle errors at cleanup of docker resources (a9728382)
 
 
@@ -3378,6 +3746,86 @@ Expose logging from docker-api
 This commit exposes the logging from docker-api into the normal
 beaker logging.
 ```
+* Merge pull request #189 from anodelman/make-gem (0f848be8)
+
+
+```
+Merge pull request #189 from anodelman/make-gem
+
+create beaker 1.8.2 gem
+```
+* create beaker 1.8.2 gem (d97e62db)
+
+
+```
+create beaker 1.8.2 gem
+
+- to include alteration of beaker configure/validate post-provisioning
+  steps
+```
+* (maint) Add spec Tests for Empty Fusion Snapshots (2253d688)
+
+
+```
+(maint) Add spec Tests for Empty Fusion Snapshots
+
+Add three spec tests to exercise that invalid Fusion snapshots raise the
+proper errors.
+```
+* Merge pull request #178 from anodelman/configuration-cleanup (7b6b5a84)
+
+
+```
+Merge pull request #178 from anodelman/configuration-cleanup
+
+(QENG-310) move various host configuration steps together
+```
+* Merge pull request #186 from anodelman/make-gem (4de3450e)
+
+
+```
+Merge pull request #186 from anodelman/make-gem
+
+create beaker 1.8.1 gem
+```
+* create beaker 1.8.1 gem (1b674eec)
+
+* Merge pull request #185 from branan/use_cmd_for_msiexec (65a0386e)
+
+
+```
+Merge pull request #185 from branan/use_cmd_for_msiexec
+
+(maint) Wrap windows PE installation in `cmd /C`
+```
+* (maint) Install PE on windows synchronously (5bcd04ca)
+
+
+```
+(maint) Install PE on windows synchronously
+
+Previously, beaker would call msiexec in a way that would cause it to
+run asynchronously. This worked pretty much by chance, because beaker
+did enough other stuff before trying to run puppet on the Windows
+machine.
+
+This wraps the msiexec call in `start /w`, which waits for the
+installation to finish before continuing. This ensures that puppet is
+fully installed before beaker continues.
+```
+* (maint) Wrap windows PE installation in `cmd /C` (08de0d72)
+
+
+```
+(maint) Wrap windows PE installation in `cmd /C`
+
+When cygwin converts the posix-style commandline that bash provides to
+a windows-style one for calling msiexec, it adds quotes around some
+arguments. These quotes cause msiexec to fail. By wrapping the msiexec
+invocation in `cmd /C`, we use the windows command interpreter to
+handle the command line instead of bash/cygwin. This avoids the
+translation issues introduced by cygwin.
+```
 * Refactor the flow of platform specific actions (a197d7d7)
 
 
@@ -3388,6 +3836,92 @@ The previous flow (using the return value from the case statement) was
 needlessly complex and caused some confusion.  Refactor to add more explicit
 appends to the dockerfile variable in each when block.
 ```
+* Merge pull request #183 from anodelman/make-gem (0cea9162)
+
+
+```
+Merge pull request #183 from anodelman/make-gem
+
+create beaker 1.8.0 gem
+```
+* create beaker 1.8.0 gem (3d1ca003)
+
+* Merge pull request #179 from anodelman/result-object-fix (7fae4e96)
+
+
+```
+Merge pull request #179 from anodelman/result-object-fix
+
+(QENG-319) The "result" Object Doesn't Have Promised Attributes
+```
+* Merge pull request #170 from anodelman/fusion-fixes (b27b57a1)
+
+
+```
+Merge pull request #170 from anodelman/fusion-fixes
+
+(QENG-280) beaker throws sort error when it can't locate fusion snapshots
+```
+* Merge pull request #177 from zaphod42/issue/master/qeng-326-dump-logs-for-shutdown-errors (3fa2f380)
+
+
+```
+Merge pull request #177 from zaphod42/issue/master/qeng-326-dump-logs-for-shutdown-errors
+
+(QENG-326) Dump puppet logs on failed shutdown
+```
+* Merge pull request #180 from hunner/fix_default_agents (cb2306f3)
+
+
+```
+Merge pull request #180 from hunner/fix_default_agents
+
+(QENG-328) Only disallow agent-only nodes from using master/database/dashboard roles
+```
+* Merge pull request #175 from electrical/opensuse (aca94567)
+
+
+```
+Merge pull request #175 from electrical/opensuse
+
+Add opensuse to the list ( Its the same as SLES stuff )
+```
+* make ntp command configurable per and allow for retries (bbd2d623)
+
+* Add regex check here as well (9b54db38)
+
+* CLeanup if/elsif to case/when statements (ba0a2486)
+
+* Merge pull request #182 from nicklewis/generate_3.3_answers (1e31d730)
+
+
+```
+Merge pull request #182 from nicklewis/generate_3.3_answers
+
+Support generating answers for PE 3.3
+```
+* Support generating answers for PE 3.3 (e3d933c7)
+
+
+```
+Support generating answers for PE 3.3
+
+For now, these are the same answers as for PE 3.2.
+```
+* (OPS-2548) Cloud Asset Tagging for QA (919ad9ac)
+
+
+```
+(OPS-2548) Cloud Asset Tagging for QA
+
+- add tags for department/project to ec2
+- add annotation for department/project to vcloud
+- add metadata to google compute instances
+```
+* Remove all opensuse references, we only use sles. (e7da7d9b)
+
+* (QENG-328) Only disallow agent-only nodes from using master/database/dashboard roles (28e15cdb)
+
 * Install ssh clients in the docker hypervisor (0f6f097d)
 
 
@@ -3410,6 +3944,14 @@ By default this is 60 seconds
 Additionally we use the version assertion from docker-api so we
 don't try and talk to an incompatible api version.
 ```
+* SLES and OpenSuSE are the same. (e74e12f0)
+
+
+```
+SLES and OpenSuSE are the same.
+
+Make sure we check and install the right package and call sntp for setting the time
+```
 * (QENG-275) redesign beaker's env var support (aa7bb857)
 
 
@@ -3419,6 +3961,59 @@ don't try and talk to an incompatible api version.
 - move all env vars reading to options parsing
 - rename beaker env vars to match format BEAKER_*name*, still support
   old name format for now
+```
+* (QENG-326) Ignore errors when dumping logs (9435273d)
+
+
+```
+(QENG-326) Ignore errors when dumping logs
+
+If the log dump encounters an error, that error would mask any errors
+with the teardown of the puppet system. This changes that to log the
+error from the log dump and continue on as normal. The logs won't be
+dumped (maybe. depends on where the error was encountered), but the
+problem will be reported and so will the original teardown problem.
+```
+* Merge pull request #173 from anodelman/answer-access (7a76fbfa)
+
+
+```
+Merge pull request #173 from anodelman/answer-access
+
+(QENG-318) Add interface for introspecting answers
+```
+* Merge pull request #169 from jpartlow/dont_destroy_callers_opts (a52fbac5)
+
+
+```
+Merge pull request #169 from jpartlow/dont_destroy_callers_opts
+
+(maint) Preserve :__commandline_args__ if provided in conf_opts
+```
+* Merge pull request #158 from electrical/pe_ver_env (100916bd)
+
+
+```
+Merge pull request #158 from electrical/pe_ver_env
+
+Add pe_ver ENV variable so we can control it outside the config files.
+```
+* (QENG-319) The "result" Object Doesn't Have Promised Attributes (789d5004)
+
+
+```
+(QENG-319) The "result" Object Doesn't Have Promised Attributes
+
+- to support old tests, yield self on a block with arity of 0
+- to support new tests, yield result on a block with arity of 1
+```
+* Merge pull request #172 from anodelman/scrub-README (2e60adbe)
+
+
+```
+Merge pull request #172 from anodelman/scrub-README
+
+(QENG-309) remove documentation from Beaker README
 ```
 * Add a `docker_cmd` option to the docker hypervisor (09200f34)
 
@@ -3431,6 +4026,54 @@ closer to an init rather than a simple sshd.  This allows the
 container to behave more like a system under test with fully working
 service supervision.
 ```
+* (QENG-326) Dump puppet logs on failed shutdown (bbd45199)
+
+
+```
+(QENG-326) Dump puppet logs on failed shutdown
+
+Right now the puppet logs are only dumped if there was a failure to
+start the service. That means that when there is a failure on shutdown
+we are left in the dark. This adds dumping of the logs when a error is
+raised in the shutdown process.
+
+This also improves the FakeHost so that it can support the [] method
+instead of having a catch-all stub. By implementing the method is makes
+the fake more resilient to changes and reduces the need for stubs of
+what is mostly a value object.
+```
+* Merge pull request #174 from anodelman/file-reading (7ec9d31d)
+
+
+```
+Merge pull request #174 from anodelman/file-reading
+
+(QENG-120) Beaker will raise "empty directory used as an option"...
+```
+* (QENG-310) move various host configuration steps together (7d1a7e38)
+
+
+```
+(QENG-310) move various host configuration steps together
+
+- remove utils directory, place contents in host_prebuild_steps.rb
+- update specs to reflect where code was moved
+- update hypervisor.rb to use default, pre-built steps
+
+- addon: remove last reference to systest
+```
+* Fix NTP part. (136e97d3)
+
+
+```
+Fix NTP part.
+
+Should have looked better at which part installs the ntpdate package.
+```
+* Add OpenSuse ntp stuff + tests (71780e3c)
+
+* Add opensuse to the list ( Its the same as SLES stuff ) (c18b4b37)
+
 * Add openSUSE and SLES support to docker hypervisor. (8bae0903)
 
 
@@ -3443,6 +4086,62 @@ RUN statements to install the sshd in terms of zypper.
 Additionally we need to explictly configure the sshd to allow root
 login via passwords, bypassing pam.
 ```
+* (QENG-120) Beaker will raise "empty directory used as an option"... (85d21e12)
+
+
+```
+(QENG-120) Beaker will raise "empty directory used as an option"...
+
+...when a directory does not exist
+- better error messaging
+```
+* (QENG-318) Add interface for introspecting answers (4dfdcb04)
+
+
+```
+(QENG-318) Add interface for introspecting answers
+
+- when answers are generated add answers to each host object
+- answers will be accessible at host[:answers][:q_install]
+```
+* (QENG-309) remove documentation from Beaker README (84895a99)
+
+
+```
+(QENG-309) remove documentation from Beaker README
+
+- documentation has all been moved to the github beaker wiki
+```
+* (QENG-280) beaker throws sort error when it can't locate fusion snapshots (490ee15d)
+
+
+```
+(QENG-280) beaker throws sort error when it can't locate fusion snapshots
+
+- add check for snapshot definition per fusion host
+- add check that snapshot exist per-existing fusion vm
+```
+* (maint) Preserve :__commandline_args__ if provided in conf_opts (fd6ae04c)
+
+
+```
+(maint) Preserve :__commandline_args__ if provided in conf_opts
+
+Oops, made the mistake of rudely ripping :__commandline_args__ from
+with_puppet_running_on's conf_opts when I first added this bit.  This
+should preserve the :__commandline_args__ for future callers while still
+keeping it out of the puppet.conf creation step.
+```
+* Merge pull request #168 from hunner/fix_pooled (08fa63b8)
+
+
+```
+Merge pull request #168 from hunner/fix_pooled
+
+(QENG-289) Raise error when template is nil
+```
+* (QENG-289) Raise error when template is nil (ce839a6b)
+
 * Add a docker hypervisor (f1634157)
 
 
@@ -3557,486 +4256,6 @@ sys     0m0.115s
 
 
 ```
-### <a name = "beaker1.10.0">beaker1.10.0 - 22 Apr, 2014 (fbef5d2b)
-
-* Merge pull request #220 from anodelman/make-gem (fbef5d2b)
-
-
-```
-Merge pull request #220 from anodelman/make-gem
-
-create beaker 1.10.0 gem
-```
-* create beaker 1.10.0 gem (07b37988)
-
-* Merge pull request #219 from kylog/maint/remove-unneeded-apt-get-install-options (bb199d3e)
-
-
-```
-Merge pull request #219 from kylog/maint/remove-unneeded-apt-get-install-options
-
-(maint) Remove unneeded options for 'apt-get update'
-```
-* (maint) Remove unneeded options for 'apt-get update' (46abba11)
-
-
-```
-(maint) Remove unneeded options for 'apt-get update'
-
-Previously apt-get update was invoked with the -y -f -m
-options. None of these options actually make sense for *update*
-(though -y makes total sense for *install*). Starting with
-trusty's apt-get, apt-get actually rejects (at least) -f for
-apt-get install.
-
-So this patch simply removes those unneeded options.
-```
-* Merge pull request #217 from anodelman/fix-filesort (461dc5ff)
-
-
-```
-Merge pull request #217 from anodelman/fix-filesort
-
-(MAINT) correctly sort test files
-```
-* (MAINT) correctly sort test files (43f58f85)
-
-
-```
-(MAINT) correctly sort test files
-
-- turns out that we aren't actually correctly sorting files and this
-  affects how tests are run on hosts.
-```
-* Merge pull request #216 from anodelman/wrap-ip (935bf5b4)
-
-
-```
-Merge pull request #216 from anodelman/wrap-ip
-
-(QENG-486) add easy access to ip address per beaker host
-```
-* (QENG-486) add easy access to ip address per beaker host (5ab04522)
-
-
-```
-(QENG-486) add easy access to ip address per beaker host
-
-- either use the already determined ip address or figure it out through
-  ifconfig/ipconfig
-```
-* Merge pull request #214 from cyberious/windows_vagrant (e19b0f1d)
-
-
-```
-Merge pull request #214 from cyberious/windows_vagrant
-
-Add beaker windows support to auto identify port and guest
-```
-* Merge pull request #211 from waynr/features/arbitary-puppetservice-name_curl-with-retries (9287c068)
-
-
-```
-Merge pull request #211 from waynr/features/arbitary-puppetservice-name_curl-with-retries
-
-Features/arbitary puppetservice name curl with retries
-```
-* Merge pull request #207 from electrical/future_parser (1022e573)
-
-
-```
-Merge pull request #207 from electrical/future_parser
-
-Add future parser as option when applying a manifest
-```
-* Add beaker windows support to auto identify port and guest (103b00eb)
-
-* Merge pull request #203 from kbarber/ticket/master/pdb-554 (e055e6c9)
-
-
-```
-Merge pull request #203 from kbarber/ticket/master/pdb-554
-
-Ticket/master/pdb 554 Fix zombied instances and volumes for EC2
-```
-* Merge pull request #209 from anodelman/optional-validation (1fb25d3a)
-
-
-```
-Merge pull request #209 from anodelman/optional-validation
-
-(QENG-433) make validation steps in beaker optional
-```
-* Merge pull request #202 from anodelman/exit-with-xml (43e2f8b0)
-
-
-```
-Merge pull request #202 from anodelman/exit-with-xml
-
-(QENG-409) Beaker does not write out JUnit XML when...
-```
-* Add test and yardoc (d1d7f05e)
-
-* PDB-554 Remove wait_for_ssh now the underlying layers handles it (cc9bd071)
-
-
-```
-PDB-554 Remove wait_for_ssh now the underlying layers handles it
-
-Signed-off-by: Ken Barber <ken@bob.sh>
-```
-* (QENG-425) Alter with_puppet_running_on logic. (ec2dba43)
-
-
-```
-(QENG-425) Alter with_puppet_running_on logic.
-
-Only use initscript to restart if puppetservice is defined.
-
-Signed-off-by: Wayne <wayne@puppetlabs.com>
-```
-* Merge pull request #205 from anodelman/vmname-confusion (71e3db8e)
-
-
-```
-Merge pull request #205 from anodelman/vmname-confusion
-
-(maint) create host.hostname procedure
-```
-* Merge pull request #197 from anodelman/google-cloud (3666309c)
-
-
-```
-Merge pull request #197 from anodelman/google-cloud
-
-(QENG-407) update google compute to differentiate between template and platform
-```
-* PDB-554 Execute configure_hosts() after wait_for_ssh() (b8a47ead)
-
-
-```
-PDB-554 Execute configure_hosts() after wait_for_ssh()
-
-Signed-off-by: Ken Barber <ken@bob.sh>
-```
-* PDB-554 Provide a bare minimum /etc/hosts for Ubuntu 10.04 compatibility (cf1f6760)
-
-
-```
-PDB-554 Provide a bare minimum /etc/hosts for Ubuntu 10.04 compatibility
-
-Signed-off-by: Ken Barber <ken@bob.sh>
-```
-* PDB-554 Use ec2's dynamic names (db5f514e)
-
-
-```
-PDB-554 Use ec2's dynamic names
-
-This obviates the need for /etc/hosts modification by using the EC2 public
-names only.
-
-Signed-off-by: Ken Barber <ken@bob.sh>
-```
-* PDB-554 Correct handling of /etc/hosts creation and ensure hostnames are set (8d0e76c8)
-
-
-```
-PDB-554 Correct handling of /etc/hosts creation and ensure hostnames are set
-
-Signed-off-by: Ken Barber <ken@bob.sh>
-```
-* PDB-554 Use hack_etc_hosts instead and make a wait_for_ssh method (1b7fb16d)
-
-
-```
-PDB-554 Use hack_etc_hosts instead and make a wait_for_ssh method
-
-The wait_for_ssh method works around a race during provisioning whereby a
-machine can come up and be ready for SSH connections, but you will get an
-authenthentication error if you try to quickly.
-
-Signed-off-by: Ken Barber <ken@bob.sh>
-```
-* (QENG-425) Support optional curl_with_retries behavior. (f8410ada)
-
-
-```
-(QENG-425) Support optional curl_with_retries behavior.
-
-Specifically, when restarting the puppet master using the initscript/service,
-allow per-host configuration to specify whether or not to actually wait for the
-puppet master to listen on port 8140 by attemping to grok with. Try up to 120
-times at 1-second intervals.
-
-Signed-off-by: Wayne <wayne@puppetlabs.com>
-```
-* (QENG-425) Generalize with_puppet_running_on method. (2b56e90a)
-
-
-```
-(QENG-425) Generalize with_puppet_running_on method.
-
-Instead of always using pe-httpd as the service name for PE Puppet master, set
-that as the default and allow customization on a per-host basis (probably
-through Beaker config).
-
-Signed-off-by: Wayne <wayne@puppetlabs.com>
-```
-* PDB-554 Decompose #provision and break out amiports into its own class (e8be9cf8)
-
-
-```
-PDB-554 Decompose #provision and break out amiports into its own class
-
-Signed-off-by: Ken Barber <ken@bob.sh>
-```
-* Merge pull request #201 from maestrodev/provision-anyway (628d712c)
-
-
-```
-Merge pull request #201 from maestrodev/provision-anyway
-
-If provision option is set to false but Vagrantfile not found, then provision anyway
-```
-* Error early if provision option is set to false but Vagrantfile not found (20ae80b4)
-
-
-```
-Error early if provision option is set to false but Vagrantfile not found
-
-User needs to enable provision
-```
-* (QENG-433) make validation steps in beaker optional (e2fa5239)
-
-
-```
-(QENG-433) make validation steps in beaker optional
-
-- turn on/off with -(-no)-validate
-- defaults to 'true'
-```
-* Add future parser as option when applying a manifest (6eb69b1e)
-
-
-```
-Add future parser as option when applying a manifest
-
-This option can enable the use of the future parser when applying a manifest.
-I'm not 100% sure though what it will do on older puppet versions that don't support that option.
-```
-* (maint) create host.hostname procedure (27581ea9)
-
-
-```
-(maint) create host.hostname procedure
-
-- convenience method for accessing the hostname of the given host
-```
-* PDB-554 Set ENV variable jenkins_build_url to ensure test matches (5fffee41)
-
-
-```
-PDB-554 Set ENV variable jenkins_build_url to ensure test matches
-
-Signed-off-by: Ken Barber <ken@bob.sh>
-```
-* firewall + ssh fixes for google compute (e45b4694)
-
-
-```
-firewall + ssh fixes for google compute
-
-- firewall allows ports 8080/8081
-- retry on failure to authenticate errors (happens when google compute
-  boxes haven't successfully spun up yet)
-```
-* PDB-554 Add image checking and root device setup (5b9b7da1)
-
-
-```
-PDB-554 Add image checking and root device setup
-
-Signed-off-by: Ken Barber <ken@bob.sh>
-```
-* (QENG-409) Beaker does not write out JUnit XML when... (5a8b5297)
-
-
-```
-(QENG-409) Beaker does not write out JUnit XML when...
-
-...certain internal exceptions occur
-- on ruby 1.8 Timeouts are raised as Interrupt (parented by SignalException)
-  instead of out of RuntimeError (which is parented by StandardError) and are
-  thus not being caught appropraitely.
-- added spec test coverage for correct error reporting
-```
-* PDB-554 Implement a new EC2 backend and add jenkins_build_url to tags (44e8258a)
-
-
-```
-PDB-554 Implement a new EC2 backend and add jenkins_build_url to tags
-
-This patch implements a replacement for the blimpy backend. It replaces the
-use of blimpy to launch EC2 nodes with the Amazon AWS::EC2 library.
-
-This was introduced to provide more control over handling error states, without
-the granular control of a lower level library we are relying on blimpy to have
-error handling (which it largely does not).
-
-My theory was that we could either improve blimpy to do more, or just replace
-it with a better driver that allows us to maintain our provisioning code on
-its own without worrying about an upstream project. Since we don't use blimpy
-for anything else, and we don't want the delay of having an upstream project
-release our changes replacement seemed like a better option.
-
-The driver is initiated with the hypervisor: ec2 setting in the users template
-files and is built to match the blimpy behaviour in the way it configures
-security groups and key pairs. To a reasonable extent users using blimpy right
-now should be able to switch over with very little change.
-
-As an aside, I've also added the ability to pass through the BUILD_URL from
-a jenkins job as a tag in EC2 (and I've added this code to GCE as well). This
-allows a better traceback from VM's to a particular job so we can identify
-zombied jobs better.
-
-Signed-off-by: Ken Barber <ken@bob.sh>
-```
-* (QENG-407) update google compute to differentiate between template and platform (b29dcfcd)
-
-
-```
-(QENG-407) update google compute to differentiate between template and platform
-
-- assume that the google compute image name will be in host[:image],
-  otherwise default to host[:platform]
-- fixes up the differentiations between google naming rules and our
-  internal platform naming rules
-```
-### <a name = "beaker1.9.1">beaker1.9.1 - 27 Mar, 2014 (747ee73e)
-
-* Merge pull request #196 from anodelman/make-gem (747ee73e)
-
-
-```
-Merge pull request #196 from anodelman/make-gem
-
-create beaker 1.9.1 gem
-```
-* create beaker 1.9.1 gem (edc0a229)
-
-
-```
-create beaker 1.9.1 gem
-
-- fix vagrant support
-```
-* Merge pull request #195 from anodelman/vagrant-etc-hosts (c28beef8)
-
-
-```
-Merge pull request #195 from anodelman/vagrant-etc-hosts
-
-(maint) vagrant hypervisor support broken by bad call to hack_etc_hosts
-```
-* (maint) vagrant hypervisor support broken by bad call to hack_etc_hosts (843135a3)
-
-
-```
-(maint) vagrant hypervisor support broken by bad call to hack_etc_hosts
-
-- nertz
-```
-### <a name = "beaker1.9.0">beaker1.9.0 - 26 Mar, 2014 (7feb8327)
-
-* Merge pull request #194 from anodelman/make-gem (7feb8327)
-
-
-```
-Merge pull request #194 from anodelman/make-gem
-
-create beaker 1.9.0 gem
-```
-* create beaker 1.9.0 gem (e4e2d9eb)
-
-* Merge pull request #151 from anodelman/refactor-fetch (e5fd940d)
-
-
-```
-Merge pull request #151 from anodelman/refactor-fetch
-
-(QA-769) Beaker fetch_puppet for PE needs to be refactored
-```
-* Merge pull request #187 from colinPL/fusion_spec_spanshots (adbc085a)
-
-
-```
-Merge pull request #187 from colinPL/fusion_spec_spanshots
-
-(maint) Add spec Tests for Empty Fusion Snapshots
-```
-* Merge pull request #193 from anodelman/curl-wrapper (c5cce8fd)
-
-
-```
-Merge pull request #193 from anodelman/curl-wrapper
-
-(QENG-382) Acceptance tests use curl's default ssl settings
-```
-* Merge pull request #181 from anodelman/ec2-tags (e6f760d7)
-
-
-```
-Merge pull request #181 from anodelman/ec2-tags
-
-(OPS-2548) Cloud Asset Tagging for QA
-```
-* Merge pull request #167 from anodelman/google-cloud (aed481f0)
-
-
-```
-Merge pull request #167 from anodelman/google-cloud
-
-Google cloud support in beaker
-```
-* (QENG-382) Acceptance tests use curl's default ssl settings (b851da4f)
-
-
-```
-(QENG-382) Acceptance tests use curl's default ssl settings
-
-- create curl_on dsl extension, runs curl command with --sslv3 when
-  executing PE tests
-```
-* Merge pull request #192 from kylog/maint/pin-rake-to-support-ruby-1.8.7 (0ff1f9c2)
-
-
-```
-Merge pull request #192 from kylog/maint/pin-rake-to-support-ruby-1.8.7
-
-(maint) Pin rake to the last version that supported ruby 1.8.7
-```
-* (maint) Pin rake to the last version that supported ruby 1.8.7 (5e498b1a)
-
-* (maint) Add spec Tests for Empty Fusion Snapshots (2253d688)
-
-
-```
-(maint) Add spec Tests for Empty Fusion Snapshots
-
-Add three spec tests to exercise that invalid Fusion snapshots raise the
-proper errors.
-```
-* (OPS-2548) Cloud Asset Tagging for QA (919ad9ac)
-
-
-```
-(OPS-2548) Cloud Asset Tagging for QA
-
-- add tags for department/project to ec2
-- add annotation for department/project to vcloud
-- add metadata to google compute instances
-```
 * added yard documentation to google compute code + new platform class (d7b6cebf)
 
 
@@ -4047,354 +4266,6 @@ added yard documentation to google compute code + new platform class
 - i should do this more often!
 - please don't check for grammar
 ```
-* (QA-769) Beaker fetch_puppet for PE needs to be refactored (98490ba0)
-
-
-```
-(QA-769) Beaker fetch_puppet for PE needs to be refactored
-
-- just some code clean up, split out windows and unix host PE fetching
-  into two different functions
-- tested locally on unix-style hosts
-```
-* split out google compute related code to its own class (0ed3d54c)
-
-
-```
-split out google compute related code to its own class
-
-- tidy!
-```
-* added retry for network failure errors (118b4a15)
-
-* add firewall to google default network for given project (6a4cbcbe)
-
-
-```
-add firewall to google default network for given project
-
-- to ensure that pe ports are open
-```
-* google cloud integration (95108d39)
-
-### <a name = "beaker1.8.2">beaker1.8.2 - 21 Mar, 2014 (0f848be8)
-
-* Merge pull request #189 from anodelman/make-gem (0f848be8)
-
-
-```
-Merge pull request #189 from anodelman/make-gem
-
-create beaker 1.8.2 gem
-```
-* create beaker 1.8.2 gem (d97e62db)
-
-
-```
-create beaker 1.8.2 gem
-
-- to include alteration of beaker configure/validate post-provisioning
-  steps
-```
-* Merge pull request #178 from anodelman/configuration-cleanup (7b6b5a84)
-
-
-```
-Merge pull request #178 from anodelman/configuration-cleanup
-
-(QENG-310) move various host configuration steps together
-```
-* (QENG-310) move various host configuration steps together (7d1a7e38)
-
-
-```
-(QENG-310) move various host configuration steps together
-
-- remove utils directory, place contents in host_prebuild_steps.rb
-- update specs to reflect where code was moved
-- update hypervisor.rb to use default, pre-built steps
-
-- addon: remove last reference to systest
-```
-### <a name = "beaker1.8.1">beaker1.8.1 - 19 Mar, 2014 (4de3450e)
-
-* Merge pull request #186 from anodelman/make-gem (4de3450e)
-
-
-```
-Merge pull request #186 from anodelman/make-gem
-
-create beaker 1.8.1 gem
-```
-* create beaker 1.8.1 gem (1b674eec)
-
-* Merge pull request #185 from branan/use_cmd_for_msiexec (65a0386e)
-
-
-```
-Merge pull request #185 from branan/use_cmd_for_msiexec
-
-(maint) Wrap windows PE installation in `cmd /C`
-```
-* (maint) Install PE on windows synchronously (5bcd04ca)
-
-
-```
-(maint) Install PE on windows synchronously
-
-Previously, beaker would call msiexec in a way that would cause it to
-run asynchronously. This worked pretty much by chance, because beaker
-did enough other stuff before trying to run puppet on the Windows
-machine.
-
-This wraps the msiexec call in `start /w`, which waits for the
-installation to finish before continuing. This ensures that puppet is
-fully installed before beaker continues.
-```
-* (maint) Wrap windows PE installation in `cmd /C` (08de0d72)
-
-
-```
-(maint) Wrap windows PE installation in `cmd /C`
-
-When cygwin converts the posix-style commandline that bash provides to
-a windows-style one for calling msiexec, it adds quotes around some
-arguments. These quotes cause msiexec to fail. By wrapping the msiexec
-invocation in `cmd /C`, we use the windows command interpreter to
-handle the command line instead of bash/cygwin. This avoids the
-translation issues introduced by cygwin.
-```
-### <a name = "beaker1.8.0">beaker1.8.0 - 17 Mar, 2014 (0cea9162)
-
-* Merge pull request #183 from anodelman/make-gem (0cea9162)
-
-
-```
-Merge pull request #183 from anodelman/make-gem
-
-create beaker 1.8.0 gem
-```
-* create beaker 1.8.0 gem (3d1ca003)
-
-* Merge pull request #179 from anodelman/result-object-fix (7fae4e96)
-
-
-```
-Merge pull request #179 from anodelman/result-object-fix
-
-(QENG-319) The "result" Object Doesn't Have Promised Attributes
-```
-* Merge pull request #170 from anodelman/fusion-fixes (b27b57a1)
-
-
-```
-Merge pull request #170 from anodelman/fusion-fixes
-
-(QENG-280) beaker throws sort error when it can't locate fusion snapshots
-```
-* Merge pull request #177 from zaphod42/issue/master/qeng-326-dump-logs-for-shutdown-errors (3fa2f380)
-
-
-```
-Merge pull request #177 from zaphod42/issue/master/qeng-326-dump-logs-for-shutdown-errors
-
-(QENG-326) Dump puppet logs on failed shutdown
-```
-* Merge pull request #180 from hunner/fix_default_agents (cb2306f3)
-
-
-```
-Merge pull request #180 from hunner/fix_default_agents
-
-(QENG-328) Only disallow agent-only nodes from using master/database/dashboard roles
-```
-* Merge pull request #175 from electrical/opensuse (aca94567)
-
-
-```
-Merge pull request #175 from electrical/opensuse
-
-Add opensuse to the list ( Its the same as SLES stuff )
-```
-* make ntp command configurable per and allow for retries (bbd2d623)
-
-* Add regex check here as well (9b54db38)
-
-* CLeanup if/elsif to case/when statements (ba0a2486)
-
-* Merge pull request #182 from nicklewis/generate_3.3_answers (1e31d730)
-
-
-```
-Merge pull request #182 from nicklewis/generate_3.3_answers
-
-Support generating answers for PE 3.3
-```
-* Support generating answers for PE 3.3 (e3d933c7)
-
-
-```
-Support generating answers for PE 3.3
-
-For now, these are the same answers as for PE 3.2.
-```
-* Remove all opensuse references, we only use sles. (e7da7d9b)
-
-* (QENG-328) Only disallow agent-only nodes from using master/database/dashboard roles (28e15cdb)
-
-* SLES and OpenSuSE are the same. (e74e12f0)
-
-
-```
-SLES and OpenSuSE are the same.
-
-Make sure we check and install the right package and call sntp for setting the time
-```
-* (QENG-326) Ignore errors when dumping logs (9435273d)
-
-
-```
-(QENG-326) Ignore errors when dumping logs
-
-If the log dump encounters an error, that error would mask any errors
-with the teardown of the puppet system. This changes that to log the
-error from the log dump and continue on as normal. The logs won't be
-dumped (maybe. depends on where the error was encountered), but the
-problem will be reported and so will the original teardown problem.
-```
-* Merge pull request #173 from anodelman/answer-access (7a76fbfa)
-
-
-```
-Merge pull request #173 from anodelman/answer-access
-
-(QENG-318) Add interface for introspecting answers
-```
-* Merge pull request #169 from jpartlow/dont_destroy_callers_opts (a52fbac5)
-
-
-```
-Merge pull request #169 from jpartlow/dont_destroy_callers_opts
-
-(maint) Preserve :__commandline_args__ if provided in conf_opts
-```
-* Merge pull request #158 from electrical/pe_ver_env (100916bd)
-
-
-```
-Merge pull request #158 from electrical/pe_ver_env
-
-Add pe_ver ENV variable so we can control it outside the config files.
-```
-* (QENG-319) The "result" Object Doesn't Have Promised Attributes (789d5004)
-
-
-```
-(QENG-319) The "result" Object Doesn't Have Promised Attributes
-
-- to support old tests, yield self on a block with arity of 0
-- to support new tests, yield result on a block with arity of 1
-```
-* Merge pull request #172 from anodelman/scrub-README (2e60adbe)
-
-
-```
-Merge pull request #172 from anodelman/scrub-README
-
-(QENG-309) remove documentation from Beaker README
-```
-* (QENG-326) Dump puppet logs on failed shutdown (bbd45199)
-
-
-```
-(QENG-326) Dump puppet logs on failed shutdown
-
-Right now the puppet logs are only dumped if there was a failure to
-start the service. That means that when there is a failure on shutdown
-we are left in the dark. This adds dumping of the logs when a error is
-raised in the shutdown process.
-
-This also improves the FakeHost so that it can support the [] method
-instead of having a catch-all stub. By implementing the method is makes
-the fake more resilient to changes and reduces the need for stubs of
-what is mostly a value object.
-```
-* Merge pull request #174 from anodelman/file-reading (7ec9d31d)
-
-
-```
-Merge pull request #174 from anodelman/file-reading
-
-(QENG-120) Beaker will raise "empty directory used as an option"...
-```
-* Fix NTP part. (136e97d3)
-
-
-```
-Fix NTP part.
-
-Should have looked better at which part installs the ntpdate package.
-```
-* Add OpenSuse ntp stuff + tests (71780e3c)
-
-* Add opensuse to the list ( Its the same as SLES stuff ) (c18b4b37)
-
-* (QENG-120) Beaker will raise "empty directory used as an option"... (85d21e12)
-
-
-```
-(QENG-120) Beaker will raise "empty directory used as an option"...
-
-...when a directory does not exist
-- better error messaging
-```
-* (QENG-318) Add interface for introspecting answers (4dfdcb04)
-
-
-```
-(QENG-318) Add interface for introspecting answers
-
-- when answers are generated add answers to each host object
-- answers will be accessible at host[:answers][:q_install]
-```
-* (QENG-309) remove documentation from Beaker README (84895a99)
-
-
-```
-(QENG-309) remove documentation from Beaker README
-
-- documentation has all been moved to the github beaker wiki
-```
-* (QENG-280) beaker throws sort error when it can't locate fusion snapshots (490ee15d)
-
-
-```
-(QENG-280) beaker throws sort error when it can't locate fusion snapshots
-
-- add check for snapshot definition per fusion host
-- add check that snapshot exist per-existing fusion vm
-```
-* (maint) Preserve :__commandline_args__ if provided in conf_opts (fd6ae04c)
-
-
-```
-(maint) Preserve :__commandline_args__ if provided in conf_opts
-
-Oops, made the mistake of rudely ripping :__commandline_args__ from
-with_puppet_running_on's conf_opts when I first added this bit.  This
-should preserve the :__commandline_args__ for future callers while still
-keeping it out of the puppet.conf creation step.
-```
-* Merge pull request #168 from hunner/fix_pooled (08fa63b8)
-
-
-```
-Merge pull request #168 from hunner/fix_pooled
-
-(QENG-289) Raise error when template is nil
-```
-* (QENG-289) Raise error when template is nil (ce839a6b)
-
 * Merge pull request #165 from anodelman/convert-platform-version (3d77dbb5)
 
 
@@ -4478,15 +4349,6 @@ Merge pull request #162 from anodelman/pe-install-configuration
 - just add the check to see if pe_ver is set in options before
   attempting the version scraper
 ```
-* Add pe_ver ENV variable so we can control it outside the config files. (668be93e)
-
-
-```
-Add pe_ver ENV variable so we can control it outside the config files.
-This can be handy when you want to test against different PE versions in jenkins for example.
-```
-### <a name = "beaker1.7.0">beaker1.7.0 - 19 Feb, 2014 (0ad045fe)
-
 * Merge pull request #160 from anodelman/make-gem (0ad045fe)
 
 
@@ -4529,6 +4391,13 @@ Merge pull request #154 from branan/programmable_upgrades
 
 (QA-845) Allow PE upgrade version to be specified in the config
 ```
+* Add pe_ver ENV variable so we can control it outside the config files. (668be93e)
+
+
+```
+Add pe_ver ENV variable so we can control it outside the config files.
+This can be handy when you want to test against different PE versions in jenkins for example.
+```
 * Merge pull request #142 from anodelman/vagrant-1.8 (dbac20fe)
 
 
@@ -4568,6 +4437,16 @@ Creating a directory with colons (':') in the name will fail on Windows
 and prevent beaker from executing tests. This change moves from calling
 %T to using %H_%M_%S for time-based directory names.
 ```
+* (QA-769) Beaker fetch_puppet for PE needs to be refactored (98490ba0)
+
+
+```
+(QA-769) Beaker fetch_puppet for PE needs to be refactored
+
+- just some code clean up, split out windows and unix host PE fetching
+  into two different functions
+- tested locally on unix-style hosts
+```
 * Merge pull request #147 from branan/we_wouldnt_have_this_problem_in_clojure (854adeac)
 
 
@@ -4575,6 +4454,14 @@ and prevent beaker from executing tests. This change moves from calling
 Merge pull request #147 from branan/we_wouldnt_have_this_problem_in_clojure
 
 [maint] Do not modify the options hash in apply_manifest_on
+```
+* split out google compute related code to its own class (0ed3d54c)
+
+
+```
+split out google compute related code to its own class
+
+- tidy!
 ```
 * (QA-806) have a means to dump env without running beaker test (88f50a08)
 
@@ -4685,6 +4572,8 @@ Signed-off-by: Ken Barber <ken@bob.sh>
 ```
 * (maint) apply_manifest_on should still return a value when operating on an array (ed729178)
 
+* added retry for network failure errors (118b4a15)
+
 * (QA-805) Add timestamp to on(host) calls (b741840c)
 
 
@@ -4707,6 +4596,14 @@ Merge pull request #138 from colinPL/gitignore_add_patterns
 
 (maint) Add new patterns to gitignore
 ```
+* add firewall to google default network for given project (6a4cbcbe)
+
+
+```
+add firewall to google default network for given project
+
+- to ensure that pe ports are open
+```
 * (maint) Add new patterns to gitignore (5bc4ec43)
 
 
@@ -4716,10 +4613,6 @@ Merge pull request #138 from colinPL/gitignore_add_patterns
 Added new patterns to gitignore for IDEA, rbenv, and vagrant files and
 folders. The tmp directory patterns were reduced from two to one.
 ```
-* (QA-787) Change default output to verbose (c064ae45)
-
-### <a name = "beaker1.6.2">beaker1.6.2 - 31 Jan, 2014 (ed048e29)
-
 * Merge pull request #137 from anodelman/make-gem (ed048e29)
 
 
@@ -4748,8 +4641,6 @@ Before it was refactored, apply_manifest_on allowed an array of
 hosts. The Puppet acceptance tests rely on this behavior, so we need
 to re-introduce it.
 ```
-### <a name = "beaker1.6.1">beaker1.6.1 - 30 Jan, 2014 (468bbb6f)
-
 * Merge pull request #135 from anodelman/make-gem (468bbb6f)
 
 
@@ -4778,6 +4669,8 @@ Merge pull request #134 from branan/fix_32_answers_gen
 ```
 * (maint) Add test for the 3.2 upgrade answers generation (8c33486c)
 
+* (QA-787) Change default output to verbose (c064ae45)
+
 * (maint) Make the 'database' host available in 3.2 answers gen (da936395)
 
 
@@ -4795,8 +4688,6 @@ special hosts need to be made available explicitly.
 
 Bundler and/or rake gets confused when we aren't explicit.
 ```
-### <a name = "beaker1.6.0">beaker1.6.0 - 30 Jan, 2014 (3787bdb8)
-
 * Merge pull request #131 from branan/qa_777 (3787bdb8)
 
 
@@ -4863,34 +4754,6 @@ Generating a file name in /tmp/ breaks on windows, where /tmp/ can
 actually point to a different path depending on if a command is
 executing in a cygwin or cmd context.
 ```
-* Add forgeapi stub to support forge api v3 (c029dcaf)
-
-
-```
-Add forgeapi stub to support forge api v3
-
-Version 3 of the forge api will have a canonical source at
-forgeapi.puppetlabs.com.
-
-This patch adds this source as a source for the forge stub so
-that beaker can set the environemnt to respond correctly for both
-version 1 and version 3 of the api.
-```
-* Add forgeapi stub to support forge api v3 (60b7bb9b)
-
-
-```
-Add forgeapi stub to support forge api v3
-
-Version 3 of the forge api will have a canonical source at
-forgeapi.puppetlabs.com.
-
-This patch adds this source as a source for the forge stub so
-that beaker can set the environemnt to respond correctly for both
-version 1 and version 3 of the api.
-```
-### <a name = "beaker1.5.0">beaker1.5.0 - 29 Jan, 2014 (78db5afb)
-
 * Merge pull request #128 from anodelman/make-gem (78db5afb)
 
 
@@ -4962,8 +4825,6 @@ the PE installation code.
   never  = kill 'em no matter what
 - added spec test coverage for these modes
 ```
-### <a name = "beaker1.4.1">beaker1.4.1 - 27 Jan, 2014 (bc6a7d32)
-
 * Merge pull request #123 from anodelman/make-gem (bc6a7d32)
 
 
@@ -4992,8 +4853,6 @@ The initial commit for QA-753 didn't account for the MSI case, which
 still requires saving the .msi file locally. This adds a save_locally
 option to the cURL command line, based on whether we're fetch an msi.
 ```
-### <a name = "beaker1.4.0">beaker1.4.0 - 24 Jan, 2014 (c24f0194)
-
 * Merge pull request #119 from hunner/expect_changes (c24f0194)
 
 
@@ -5057,45 +4916,6 @@ Merge pull request #114 from joshcooper/issue/master/QA747-Add-timing-info
 
 (QA-747) Log the amount of time each command takes to execute
 ```
-* (QA-747) Log the amount of time each command takes to execute (e814c5c7)
-
-
-```
-(QA-747) Log the amount of time each command takes to execute
-
-Previously, there was no way to tell how long each beaker command took
-to execute on a remote VM. I would like to know this information to
-track down a timing issue in acceptance testing on Windows.
-
-This commit modifies the host object to log timing information when
-beaker is run in debug mode. It uses the same logging prefix as is used
-when displaying the executed command, e.g.
-
-    a4e5hyo2m0ooom1 (master) $  cp /etc/puppet/puppet.conf ...
-    a4e5hyo2m0ooom1 (master) executed in 0.01 seconds
-```
-* (PE-2586) Support using frictionless install for upgrades (0a30c9b0)
-
-
-```
-(PE-2586) Support using frictionless install for upgrades
-
-We now only use frictionless install for versions that support it. This
-way we can test frictionless upgrade (which is identical to install)
-from non-frictionless installs of older versions, while also testing it
-from frictionless installs for versions that support it.
-```
-* Provide way to install from public repos (aa5048e4)
-
-
-```
-Provide way to install from public repos
-
-This commit adds an `install_puppet` DSL method that may be used to
-simply add the public Puppet Labs repositories and install puppet.
-```
-### <a name = "beaker1.3.2">beaker1.3.2 - 23 Jan, 2014 (39bbbf0c)
-
 * Merge pull request #118 from anodelman/make-gem (39bbbf0c)
 
 
@@ -5121,6 +4941,32 @@ Merge pull request #97 from anodelman/fix-fatal-errors
 Merge pull request #116 from hunner/fix_tarball_dl
 
 Correct specs for QA-753
+```
+* Add forgeapi stub to support forge api v3 (c029dcaf)
+
+
+```
+Add forgeapi stub to support forge api v3
+
+Version 3 of the forge api will have a canonical source at
+forgeapi.puppetlabs.com.
+
+This patch adds this source as a source for the forge stub so
+that beaker can set the environemnt to respond correctly for both
+version 1 and version 3 of the api.
+```
+* Add forgeapi stub to support forge api v3 (60b7bb9b)
+
+
+```
+Add forgeapi stub to support forge api v3
+
+Version 3 of the forge api will have a canonical source at
+forgeapi.puppetlabs.com.
+
+This patch adds this source as a source for the forge stub so
+that beaker can set the environemnt to respond correctly for both
+version 1 and version 3 of the api.
 ```
 * Correct specs for QA-753 (e2e8fc25)
 
@@ -5159,6 +5005,23 @@ that. By streaming the tarball unpack, we can avoid a write and then a
 read of the 800MB tar. On a matrix of 200 nodes, that comes up to 20
 million 4K blocks written then read, for no real gain.
 ```
+* (QA-747) Log the amount of time each command takes to execute (e814c5c7)
+
+
+```
+(QA-747) Log the amount of time each command takes to execute
+
+Previously, there was no way to tell how long each beaker command took
+to execute on a remote VM. I would like to know this information to
+track down a timing issue in acceptance testing on Windows.
+
+This commit modifies the host object to log timing information when
+beaker is run in debug mode. It uses the same logging prefix as is used
+when displaying the executed command, e.g.
+
+    a4e5hyo2m0ooom1 (master) $  cp /etc/puppet/puppet.conf ...
+    a4e5hyo2m0ooom1 (master) executed in 0.01 seconds
+```
 * Merge pull request #105 from anodelman/vagrant-ip (6a16958b)
 
 
@@ -5166,6 +5029,17 @@ million 4K blocks written then read, for no real gain.
 Merge pull request #105 from anodelman/vagrant-ip
 
 (QA-644) Beaker vagrant backend corrupts /etc/hosts when --no-provision is passed
+```
+* (PE-2586) Support using frictionless install for upgrades (0a30c9b0)
+
+
+```
+(PE-2586) Support using frictionless install for upgrades
+
+We now only use frictionless install for versions that support it. This
+way we can test frictionless upgrade (which is identical to install)
+from non-frictionless installs of older versions, while also testing it
+from frictionless installs for versions that support it.
 ```
 * Merge pull request #111 from alexharv074/add_https_install_support (92a6ee4a)
 
@@ -5202,6 +5076,15 @@ Merge pull request #107 from hunner/manifest_files
 adding spec tests for pulling ip addresses from existing Vagrantfile
 
 - spec tests are good!
+```
+* Provide way to install from public repos (aa5048e4)
+
+
+```
+Provide way to install from public repos
+
+This commit adds an `install_puppet` DSL method that may be used to
+simply add the public Puppet Labs repositories and install puppet.
 ```
 * (QA-705) Create manifest files to apply (f04bae10)
 
@@ -5271,17 +5154,6 @@ Rubygems broke spec for rvm 1.8.7
 ```
 * Beaker uses netmask from config for vagrant boxes if present (4d3ad95a)
 
-* (QE-602) Beaker Throws Fatal Error when Displaying Current Version (9840390a)
-
-
-```
-(QE-602) Beaker Throws Fatal Error when Displaying Current Version
-
-- just don't do a gemspec load when looking for the version number, thus
-  it doesn't end up calling git-ls, thus no fatal errors
-```
-### <a name = "beaker1.3.1">beaker1.3.1 - 18 Dec, 2013 (08b59809)
-
 * Merge pull request #99 from anodelman/make-gem (08b59809)
 
 
@@ -5315,8 +5187,15 @@ Merge pull request #98 from anodelman/pin-rbvmomi
 - pin to rbvmomi 1.6.0 until we can figure out what's broken with
   latest rbvmomi
 ```
-### <a name = "beaker1.3.0">beaker1.3.0 - 13 Dec, 2013 (5815f829)
+* (QE-602) Beaker Throws Fatal Error when Displaying Current Version (9840390a)
 
+
+```
+(QE-602) Beaker Throws Fatal Error when Displaying Current Version
+
+- just don't do a gemspec load when looking for the version number, thus
+  it doesn't end up calling git-ls, thus no fatal errors
+```
 * Merge pull request #96 from anodelman/make-gem (5815f829)
 
 
@@ -5426,36 +5305,6 @@ Merge pull request #92 from anodelman/make-gem
 
 release beaker 1.2.0
 ```
-* (QE-588) vcloud_pooled: undefined method `request_uri' (2640f935)
-
-
-```
-(QE-588) vcloud_pooled: undefined method `request_uri'
-
-- ensure that a scheme is defined for the vcloud pooling api uri
-- if no scheme is defined the uri returned is a simple uri object that
-  does not support the 'request_uri' method
-```
-* expanded log level support (0259a764)
-
-
-```
-expanded log level support
-
-- support the following levels:
-  5 debug
-  4 verbose
-  3 info
-  2 notify
-  1 warn
-- each level reports itself plus the levels under it
-- added 'info' level that reports in BLUE
-- 'debug' level adds full stack traces
-- todo: would like to review our current logging messages and see
-        what needs to be assigned a new level
-```
-### <a name = "beaker1.2.0">beaker1.2.0 - 5 Dec, 2013 (59070752)
-
 * release beaker 1.2.0 (59070752)
 
 
@@ -5483,6 +5332,8 @@ Merge pull request #91 from hunner/apply-manifest-fix
 
 - was using 0 instead of [0] as the default acceptable exit code
 ```
+* google cloud integration (95108d39)
+
 * Merge pull request #89 from hunner/expect_failures (41a82683)
 
 
@@ -5546,6 +5397,34 @@ Merge pull request #39 from branan/master
 
 RFC: QE-147 and QE-148
 ```
+* (QE-588) vcloud_pooled: undefined method `request_uri' (2640f935)
+
+
+```
+(QE-588) vcloud_pooled: undefined method `request_uri'
+
+- ensure that a scheme is defined for the vcloud pooling api uri
+- if no scheme is defined the uri returned is a simple uri object that
+  does not support the 'request_uri' method
+```
+* expanded log level support (0259a764)
+
+
+```
+expanded log level support
+
+- support the following levels:
+  5 debug
+  4 verbose
+  3 info
+  2 notify
+  1 warn
+- each level reports itself plus the levels under it
+- added 'info' level that reports in BLUE
+- 'debug' level adds full stack traces
+- todo: would like to review our current logging messages and see
+        what needs to be assigned a new level
+```
 * Merge pull request #84 from kbarber/maint/master/retry-blimpy-on-systemcall-errors (eb07eb6f)
 
 
@@ -5591,46 +5470,6 @@ Merge pull request #83 from anodelman/make-gem
 
 make 1.0.1 gem
 ```
-* enforcing platform format of OS-VERSION-ARCH (1f4320da)
-
-
-```
-enforcing platform format of OS-VERSION-ARCH
-
-- added spec tests to ensure that we correctly sort out bad platform
-  names
-- will need to write an associated patch to update our node
-  configuration files to meet the new standard
-```
-* move VagrantFiles into .vagrant_files directory of working directory (745798c3)
-
-* documentation for supported HOST settings (590aa14f)
-
-* Only update apt repo if needed (3d882250)
-
-
-```
-Only update apt repo if needed
-
-Previously, the code would run apt-get update at every package
-install. This memoizes when apt-get update has been run so we don't
-need to run it as frequently
-```
-* (QE-519) beaker should raise error if host does not have a platform set (a4b6e89a)
-
-
-```
-(QE-519) beaker should raise error if host does not have a platform set
-
-- beaker tries to do crazy things when hosts aren't on supported
-  platforms, let's check that option right at the start
-```
-* (QE-147) Add support to deploy package repositories (1acb64e5)
-
-* (QE-148) support upgrading packages (e5c27201)
-
-### <a name = "beaker1.0.1">beaker1.0.1 - 25 Nov, 2013 (70f55b11)
-
 * make 1.0.1 gem (70f55b11)
 
 * Merge pull request #82 from branan/support_pe_32 (cea4c4f4)
@@ -5651,6 +5490,17 @@ pre-release of 1.0.1 beaker
 ```
 * Add support for PE 3.2 with its new answers requirements (90b7afe1)
 
+* enforcing platform format of OS-VERSION-ARCH (1f4320da)
+
+
+```
+enforcing platform format of OS-VERSION-ARCH
+
+- added spec tests to ensure that we correctly sort out bad platform
+  names
+- will need to write an associated patch to update our node
+  configuration files to meet the new standard
+```
 * Merge pull request #76 from justinstoller/merge/handle-missing-puppet.conf (9cc9434b)
 
 
@@ -5659,6 +5509,8 @@ Merge pull request #76 from justinstoller/merge/handle-missing-puppet.conf
 
 handle missing puppet.conf
 ```
+* move VagrantFiles into .vagrant_files directory of working directory (745798c3)
+
 * Merge pull request #71 from justinstoller/pessimistically_version_deps (8730cf06)
 
 
@@ -5683,46 +5535,6 @@ Merge pull request #77 from hunner/destroy_nothing
 
 Destroy vagrant hosts only if Vagrantfile exists
 ```
-* Destroy vagrant hosts only if Vagrantfile exists (f0c298f3)
-
-
-```
-Destroy vagrant hosts only if Vagrantfile exists
-
-The new `vagrant destroy --force` run during the vagrant hypervisors
-`provision` method added in #48 seems to fail if no `Vagrantfile` has
-ever been created for a nodeset. This fixes that.
-```
-* Use Beaker::Command when working within hosts (6551ca6d)
-
-* (maint) Dump master puppet log if failed to start puppet. (64254fc4)
-
-
-```
-(maint) Dump master puppet log if failed to start puppet.
-
-Centralize logging after puppet master fails to start.
-```
-* Define host method to check for file existence (84bf88c0)
-
-* Pessimistically lock down runtime and transitive dependencies (8c76afcc)
-
-* Gracefully handle lack of puppet.conf (faff7721)
-
-
-```
-Gracefully handle lack of puppet.conf
-
-When `#with_puppet_running_on` is executed, it attempts to back up
-puppet.conf and replace it for the duration for the test. The old
-behavior of the code would always try to back up the file regardless of
-the existence of the file, and would fail when the copy failed. This
-commit ensures that the puppet.conf file is only backed up when present,
-and the temporary puppet.conf is returned to the original state
-when the method returns.
-```
-### <a name = "beaker1.0.1pre">beaker1.0.1pre - 20 Nov, 2013 (8cffaf28)
-
 * pre-release of 1.0.1 beaker (8cffaf28)
 
 * Merge pull request #78 from hunner/fact_on (8d3fcbb5)
@@ -5744,6 +5556,16 @@ form of `<method>_on` for multi-node functions and `<method>` for
 running on a default node. This makes `fact_on()` run on designated
 nodes, and `fact()` run on the default node.
 ```
+* Destroy vagrant hosts only if Vagrantfile exists (f0c298f3)
+
+
+```
+Destroy vagrant hosts only if Vagrantfile exists
+
+The new `vagrant destroy --force` run during the vagrant hypervisors
+`provision` method added in #48 seems to fail if no `Vagrantfile` has
+ever been created for a nodeset. This fixes that.
+```
 * Merge pull request #57 from anodelman/vcloud-cleanup (ec5a38e3)
 
 
@@ -5752,6 +5574,10 @@ Merge pull request #57 from anodelman/vcloud-cleanup
 
 (QE-439) beaker is not catching rbvmomi exceptions when cleaning up vCloud VMs
 ```
+* Use Beaker::Command when working within hosts (6551ca6d)
+
+* documentation for supported HOST settings (590aa14f)
+
 * Merge pull request #70 from anodelman/silence-test-unit (0f40839e)
 
 
@@ -5792,6 +5618,37 @@ Merge pull request #48 from anodelman/fix-vagrant
 
 (QE-204) allow for use of local vagrant file when using --no-provision
 ```
+* Only update apt repo if needed (3d882250)
+
+
+```
+Only update apt repo if needed
+
+Previously, the code would run apt-get update at every package
+install. This memoizes when apt-get update has been run so we don't
+need to run it as frequently
+```
+* (maint) Dump master puppet log if failed to start puppet. (64254fc4)
+
+
+```
+(maint) Dump master puppet log if failed to start puppet.
+
+Centralize logging after puppet master fails to start.
+```
+* Define host method to check for file existence (84bf88c0)
+
+* (QE-519) beaker should raise error if host does not have a platform set (a4b6e89a)
+
+
+```
+(QE-519) beaker should raise error if host does not have a platform set
+
+- beaker tries to do crazy things when hosts aren't on supported
+  platforms, let's check that option right at the start
+```
+* Pessimistically lock down runtime and transitive dependencies (8c76afcc)
+
 * (QE-46) Beaker includes Test::Unit specific code (d88e1928)
 
 
@@ -5882,6 +5739,14 @@ Merge pull request #60 from adrienthebo/quote-bash-conditional-arguments
 
 Quote ruby interpolated data in bash commands
 ```
+* create beaker 1.0.0 gem (c85186b7)
+
+
+```
+create beaker 1.0.0 gem
+
+- include vpooling work
+```
 * Merge pull request #62 from justinstoller/pooling-again (e7c01681)
 
 
@@ -5900,6 +5765,20 @@ Test on 1.8.7
 ```
 * test, refactor, and improve option hash printing (25fd8ae3)
 
+* Gracefully handle lack of puppet.conf (faff7721)
+
+
+```
+Gracefully handle lack of puppet.conf
+
+When `#with_puppet_running_on` is executed, it attempts to back up
+puppet.conf and replace it for the duration for the test. The old
+behavior of the code would always try to back up the file regardless of
+the existence of the file, and would fail when the copy failed. This
+commit ensures that the puppet.conf file is only backed up when present,
+and the temporary puppet.conf is returned to the original state
+when the method returns.
+```
 * Quote ruby interpolated data in bash commands (fa0af43b)
 
 
@@ -5961,79 +5840,6 @@ The moral of the story is that bash exists to make everybody sad.
 
 * add 1.8.7 to the travis matrix (65b62f0b)
 
-* pass tasks instead of objectSet to wait_for_tasks (30f2288d)
-
-* repair spec test (9f7d2863)
-
-* cleaner re-use of vagrant boxes, review comment fixes (f130c2d6)
-
-* add retry for failure to find host in pool (4f9c928a)
-
-
-```
-add retry for failure to find host in pool
-
-- will retry until timeout to grab pooled box for a given host
-- raises readable error upon failure to allocated pooled host
-```
-* remove race condition upon vm cloning, general cleanup (4e45e456)
-
-* make vcloud hypervisor code better (5c8b1da9)
-
-
-```
-make vcloud hypervisor code better
-
-- break out pooled vs. non-pooled code
-- break up long proceduces
-- avoid code duplication
-```
-* (QE-364) have beaker 'chomp' stdout from execution result (f9d0f84a)
-
-
-```
-(QE-364) have beaker 'chomp' stdout from execution result
-
-- create dsl helper to access facter facts
-```
-* (QE-451) stop run when vagrant commands fail (5e1b08d1)
-
-
-```
-(QE-451) stop run when vagrant commands fail
-
-- check exit codes of vagrant commands
-- raise an error if vagrant commands fail
-```
-* (QE-204) allow for use of local vagrant file when using --no-provision (0da2d66f)
-
-
-```
-(QE-204) allow for use of local vagrant file when using --no-provision
-
-- use already set up vagrant boxes when running with --no-provision
-```
-* fixes in response to review comments (29df8b50)
-
-* vCloud host-pooling (2b974cfb)
-
-
-```
-vCloud host-pooling
-
-- This PR enabled the use of the "pooling_api" configuration parameter:
-- spec tests for vsphere/vcloud hypervisors
-```
-### <a name = "beaker1.0.0">beaker1.0.0 - 8 Nov, 2013 (c85186b7)
-
-* create beaker 1.0.0 gem (c85186b7)
-
-
-```
-create beaker 1.0.0 gem
-
-- include vpooling work
-```
 * Merge pull request #55 from justinstoller/maint/master/revert-vpooling (bed4ff69)
 
 
@@ -6059,8 +5865,23 @@ Merge pull request #38 from anodelman/vcloud-pooling
 
 vCloud host-pooling
 ```
+* pass tasks instead of objectSet to wait_for_tasks (30f2288d)
+
 * pass tasks instead of objectSet to wait_for_tasks (e9c2733d)
 
+* repair spec test (9f7d2863)
+
+* cleaner re-use of vagrant boxes, review comment fixes (f130c2d6)
+
+* add retry for failure to find host in pool (4f9c928a)
+
+
+```
+add retry for failure to find host in pool
+
+- will retry until timeout to grab pooled box for a given host
+- raises readable error upon failure to allocated pooled host
+```
 * add retry for failure to find host in pool (ccb0ae68)
 
 
@@ -6078,6 +5899,8 @@ Merge pull request #53 from jpartlow/issue/master/fix_windows_group_list_allowed
 
 Relax regex for windows group names
 ```
+* remove race condition upon vm cloning, general cleanup (4e45e456)
+
 * remove race condition upon vm cloning, general cleanup (d4011c9e)
 
 * Relax regex for windows group names (f008ca55)
@@ -6113,6 +5936,24 @@ make vcloud hypervisor code better
 - break up long proceduces
 - avoid code duplication
 ```
+* make vcloud hypervisor code better (5c8b1da9)
+
+
+```
+make vcloud hypervisor code better
+
+- break out pooled vs. non-pooled code
+- break up long proceduces
+- avoid code duplication
+```
+* (QE-364) have beaker 'chomp' stdout from execution result (f9d0f84a)
+
+
+```
+(QE-364) have beaker 'chomp' stdout from execution result
+
+- create dsl helper to access facter facts
+```
 * Merge pull request #50 from anodelman/hunner (86d2ed47)
 
 
@@ -6147,6 +5988,15 @@ Previous tests relied on wmi os osarchitecture property, which is not
 present on Windows 2003.  Now we check osarchitecture first, and use
 its result if successful.  If that attempt fails we fall back to
 grepping the wmi os name property for an x64 string.
+```
+* (QE-451) stop run when vagrant commands fail (5e1b08d1)
+
+
+```
+(QE-451) stop run when vagrant commands fail
+
+- check exit codes of vagrant commands
+- raise an error if vagrant commands fail
 ```
 * Merge pull request #44 from justinstoller/maint/master/one_more_time_with_feeling (5e14a7f7)
 
@@ -6189,6 +6039,14 @@ Allow single exit codes
 ```
 * (QE-440) beaker hypervisor creator not returning hypervisor object (a4407e2d)
 
+* (QE-204) allow for use of local vagrant file when using --no-provision (0da2d66f)
+
+
+```
+(QE-204) allow for use of local vagrant file when using --no-provision
+
+- use already set up vagrant boxes when running with --no-provision
+```
 * Merge pull request #45 from anodelman/187-mimetypes (2f12fdd0)
 
 
@@ -6206,6 +6064,8 @@ Merge pull request #45 from anodelman/187-mimetypes
 - add entry to gemspec to use mime-types 1.25 with ruby 1.8.7
 ```
 * fixes in response to review comments (adf10c49)
+
+* fixes in response to review comments (29df8b50)
 
 * add back signing of dns-alt-name certs (b57f3a6c)
 
@@ -6307,6 +6167,15 @@ Merge pull request #37 from hunner/ip_space
 
 Avoid using 192.168.0.0/16
 ```
+* vCloud host-pooling (2b974cfb)
+
+
+```
+vCloud host-pooling
+
+- This PR enabled the use of the "pooling_api" configuration parameter:
+- spec tests for vsphere/vcloud hypervisors
+```
 * vCloud host-pooling (d4351a3c)
 
 
@@ -6316,6 +6185,10 @@ vCloud host-pooling
 - This PR enabled the use of the "pooling_api" configuration parameter:
 - spec tests for vsphere/vcloud hypervisors
 ```
+* (QE-147) Add support to deploy package repositories (1acb64e5)
+
+* (QE-148) support upgrading packages (e5c27201)
+
 * Avoid using 192.168.0.0/16 (de49ec64)
 
 
@@ -7036,8 +6909,6 @@ Force a shared submask.
 ```
 * initial commit of moving all argument parsing into options_parsing (7841eed6)
 
-### <a name = "beaker0.0.0">beaker0.0.0 - 20 Aug, 2013 (c49dc525)
-
 * Merge pull request #8 from anodelman/gemify (c49dc525)
 
 
@@ -7056,9 +6927,9 @@ Merge pull request #7 from anodelman/gemify
 
 pulling out last references to PuppetAcceptance module
 ```
-* pulling out last references to PuppetAcceptance module (2575b020)
-
 * pulling out last references to PuppetAcceptance module (4775190e)
+
+* pulling out last references to PuppetAcceptance module (2575b020)
 
 * Merge pull request #5 from anodelman/gemify (e2ed1a0e)
 

@@ -2,7 +2,12 @@ module PSWindows::Exec
   include Beaker::CommandFactory
   include Beaker::DSL::Wrappers
 
+  def renew_dhcp
+    exec(Beaker::Command.new('ipconfig /renew'))
+  end
+
   def reboot
+    renew_dhcp
     exec(Beaker::Command.new("shutdown /r /t 0"), :expect_connection_failure => true)
     # rebooting on windows is slooooow
     sleep(40)

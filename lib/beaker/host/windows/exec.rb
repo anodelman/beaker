@@ -1,7 +1,12 @@
 module Windows::Exec
   include Beaker::CommandFactory
 
+  def renew_dhcp
+    exec(Beaker::Command.new('ipconfig /renew'))
+  end
+
   def reboot
+    self.renew_dhcp
     exec(Beaker::Command.new('shutdown /r /t 0 /d p:4:1 /c "Beaker::Host reboot command issued"'), :expect_connection_failure => true)
     # rebooting on windows is sloooooow
     # give it some breathing room before attempting a reconnect

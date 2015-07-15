@@ -1,7 +1,33 @@
 module Unix::Exec
   include Beaker::CommandFactory
 
+  # Determine the name of the default net interface for this host
+  # @return [String] The name of the default interface (eg, eth0)
+  def default_interface
+    exec(Beaker::Command.new("netstat -r | grep default | awk '{print $(NF)}'")).stdout.strip
+  end
+
+  # Renew the dhcp lease for the ip address on this host
+  def renew_dhcp()
+    case self['platform']
+    when /solaris-10/
+      interface = self.default_interface
+      exec(Beaker::Command.new("ifconfig #{interface} dhcp extend"))
+    when /solaris-11/
+      result = exec(Beaker::Command.new("svcadm restart physical:default"), :acceptable_exit_codes => [0,1])
+      if result.exit_code != 0
+        result = exec(Beaker::Command.new("svcadm restart physical"))
+      end
+    when /debian|ubuntu|cumulus/
+      exec(Beaker::Command.new("/etc/init.d/networking restart"))
+    else
+      exec(Beaker::Command.new("/etc/init.d/network restart"))
+    end
+    sleep(10) #give it some time to come back up
+  end
+
   def reboot
+    self.renew_dhcp
     if self['platform'] =~ /solaris/
       exec(Beaker::Command.new("reboot"), :expect_connection_failure => true)
     else

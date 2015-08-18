@@ -18,9 +18,11 @@ module Unix::Exec
       if result.exit_code != 0
         result = exec(Beaker::Command.new("svcadm restart physical"))
       end
-    when /debian|ubuntu|cumulus/
-      exec(Beaker::Command.new("/etc/init.d/networking restart"))
+    when /ubuntu|debian|cumulus/
+      interface = self.default_interface
+      exec(Beaker::Command.new("dhclient #{interface}"))
     else
+      # hail mary!
       exec(Beaker::Command.new("/etc/init.d/network restart"))
     end
     sleep(10) #give it some time to come back up
